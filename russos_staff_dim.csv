@@ -1,0 +1,15 @@
+employee_id,name,role,base_hourly_rate,hire_date
+E001,Sofia Russo,Owner/Manager,0.0,2021-10-01
+E002,Giulia Russo,Co-Owner/FOH,0.0,2021-10-01
+E003,Gianni Ferraro,Head Chef,28.0,2021-10-15
+E004,Luca Mancini,Sous Chef,22.0,2022-01-03
+E005,Carla DeLuca,Server,12.0,2022-01-10
+E006,Tony Esposito,Server,12.0,2022-02-01
+E007,Natalia Cruz,Server,12.0,2022-04-01
+E008,Danny Kwon,Bartender,15.0,2022-04-01
+E009,Sofia Abbate,Server,12.5,2023-03-01
+E010,James Whitfield,Busser,11.0,2023-03-01
+E011,Mia Torino,Server,12.5,2023-06-01
+E012,Raj Patel,Line Cook,18.0,2022-01-03
+E013,Elena Vasquez,Line Cook,18.0,2023-01-15
+E014,Kevin Park,Busser/Runner,11.0,2024-02-01

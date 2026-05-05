@@ -1,0 +1,851 @@
+guest_id,first_visit_date,total_visits,avg_check,lifetime_value,segment,satisfaction,preferred_course,town
+G0001,2024-06-04,3,122.91,368.73,Occasional,3.1,Antipasti,New Hyde Park
+G0002,2023-07-13,4,93.74,374.96,Occasional,4.3,Pasta,Westbury
+G0003,2025-02-19,17,118.67,2017.39,Regular,5.0,Mix,Garden City
+G0004,2023-11-13,40,101.56,4062.4,VIP,4.5,Secondi,Uniondale
+G0005,2022-07-20,20,97.29,1945.8,VIP,5.0,Antipasti,New Hyde Park
+G0006,2024-10-10,5,95.12,475.6,Occasional,4.1,Mix,Carle Place
+G0007,2022-06-13,26,117.01,3042.26,VIP,4.6,Mix,Great Neck
+G0008,2024-11-25,12,89.98,1079.76,Regular,4.1,Secondi,Floral Park
+G0009,2023-12-16,1,103.95,103.95,Occasional,4.2,Secondi,Floral Park
+G0010,2026-02-20,6,49.86,299.16,Occasional,3.9,Pasta,Uniondale
+G0011,2023-02-15,10,74.37,743.7,Regular,4.7,Secondi,Hempstead
+G0012,2023-09-23,8,71.64,573.12,Regular,4.3,Secondi,Floral Park
+G0013,2022-10-17,12,81.47,977.64,Regular,4.8,Mix,Mineola
+G0014,2024-10-24,6,94.18,565.08,Occasional,5.0,Secondi,Great Neck
+G0015,2023-08-02,5,97.48,487.4,Occasional,4.2,Pasta,Garden City
+G0016,2025-09-14,1,45.67,45.67,Occasional,4.0,Mix,Floral Park
+G0017,2023-03-27,7,60.24,421.68,Occasional,5.0,Secondi,Hempstead
+G0018,2022-12-15,21,53.2,1117.2,VIP,5.0,Pasta,Carle Place
+G0019,2023-01-01,17,128.54,2185.18,Regular,3.5,Antipasti,Garden City
+G0020,2026-02-05,23,51.26,1178.98,VIP,4.9,Secondi,Williston Park
+G0021,2022-11-18,19,61.77,1173.63,Regular,4.7,Pasta,Floral Park
+G0022,2023-04-15,4,117.97,471.88,Occasional,4.9,Antipasti,Great Neck
+G0023,2025-12-01,7,128.57,899.99,Occasional,4.0,Pasta,Uniondale
+G0024,2023-05-18,1,50.39,50.39,Occasional,5.0,Mix,Great Neck
+G0025,2023-07-07,23,88.8,2042.4,VIP,3.6,Secondi,Uniondale
+G0026,2025-09-12,20,61.7,1234.0,VIP,4.5,Secondi,Garden City
+G0027,2022-10-18,5,94.75,473.75,Occasional,4.8,Pasta,Mineola
+G0028,2023-03-10,2,59.2,118.4,Occasional,5.0,Antipasti,Williston Park
+G0029,2024-09-08,17,82.04,1394.68,Regular,4.9,Antipasti,Great Neck
+G0030,2023-06-27,3,98.36,295.08,Occasional,4.8,Secondi,Williston Park
+G0031,2025-09-08,4,119.07,476.28,Occasional,5.0,Pasta,Uniondale
+G0032,2023-05-20,12,56.01,672.12,Regular,5.0,Pasta,Mineola
+G0033,2025-04-11,5,72.25,361.25,Occasional,3.7,Antipasti,Carle Place
+G0034,2022-01-06,1,60.34,60.34,Occasional,5.0,Pasta,Garden City
+G0035,2023-08-20,23,79.53,1829.19,VIP,3.6,Mix,Westbury
+G0036,2023-04-26,8,129.97,1039.76,Regular,4.2,Mix,New Hyde Park
+G0037,2024-08-10,8,49.72,397.76,Regular,4.8,Mix,Garden City
+G0038,2022-07-15,3,117.83,353.49,Occasional,3.9,Mix,Uniondale
+G0039,2023-03-10,1,45.77,45.77,Occasional,3.9,Pasta,Hempstead
+G0040,2024-12-22,53,77.0,4081.0,VIP,3.6,Pasta,Great Neck
+G0041,2025-06-21,17,65.45,1112.65,Regular,3.6,Antipasti,Mineola
+G0042,2023-01-04,18,92.3,1661.4,Regular,5.0,Mix,Mineola
+G0043,2025-04-07,7,65.71,459.97,Occasional,3.4,Pasta,Hempstead
+G0044,2024-09-13,10,67.14,671.4,Regular,4.2,Pasta,Westbury
+G0045,2024-09-28,6,110.26,661.56,Occasional,5.0,Secondi,Hempstead
+G0046,2025-08-01,4,67.94,271.76,Occasional,3.6,Pasta,Uniondale
+G0047,2024-04-02,8,104.23,833.84,Regular,3.8,Secondi,Williston Park
+G0048,2024-11-05,11,114.47,1259.17,Regular,4.3,Pasta,Great Neck
+G0049,2023-05-05,5,86.47,432.35,Occasional,3.8,Pasta,Floral Park
+G0050,2024-12-01,2,68.49,136.98,Occasional,5.0,Mix,Mineola
+G0051,2022-08-06,13,81.79,1063.27,Regular,3.5,Pasta,Williston Park
+G0052,2024-06-07,1,115.98,115.98,Occasional,5.0,Antipasti,Westbury
+G0053,2022-06-03,5,125.42,627.1,Occasional,4.7,Secondi,Floral Park
+G0054,2025-09-24,16,127.63,2042.08,Regular,5.0,Secondi,New Hyde Park
+G0055,2024-12-19,28,56.24,1574.72,VIP,5.0,Pasta,New Hyde Park
+G0056,2026-02-19,5,72.96,364.8,Occasional,4.2,Mix,New Hyde Park
+G0057,2023-11-02,17,81.1,1378.7,Regular,4.8,Antipasti,Hempstead
+G0058,2025-08-07,6,68.83,412.98,Occasional,4.5,Pasta,Carle Place
+G0059,2025-02-24,10,53.67,536.7,Regular,5.0,Pasta,Williston Park
+G0060,2025-08-28,8,85.7,685.6,Regular,4.5,Pasta,Garden City
+G0061,2024-11-26,1,109.41,109.41,Occasional,4.7,Antipasti,Great Neck
+G0062,2025-05-09,14,73.7,1031.8,Regular,4.7,Antipasti,Mineola
+G0063,2023-10-16,1,88.03,88.03,Occasional,5.0,Pasta,Carle Place
+G0064,2023-10-16,8,92.9,743.2,Regular,5.0,Secondi,Westbury
+G0065,2024-07-20,12,129.75,1557.0,Regular,5.0,Pasta,Garden City
+G0066,2024-07-27,24,98.01,2352.24,VIP,3.5,Antipasti,New Hyde Park
+G0067,2023-05-01,8,58.02,464.16,Regular,4.6,Antipasti,New Hyde Park
+G0068,2025-06-21,12,123.02,1476.24,Regular,3.6,Pasta,Hempstead
+G0069,2023-05-17,18,99.87,1797.66,Regular,5.0,Pasta,Mineola
+G0070,2024-11-08,5,71.9,359.5,Occasional,3.9,Pasta,Great Neck
+G0071,2024-01-24,1,121.78,121.78,Occasional,4.1,Mix,New Hyde Park
+G0072,2024-01-18,1,78.33,78.33,Occasional,3.7,Pasta,Mineola
+G0073,2025-07-12,53,104.68,5548.04,VIP,4.8,Antipasti,Mineola
+G0074,2023-03-15,6,119.47,716.82,Occasional,3.8,Secondi,Uniondale
+G0075,2025-01-11,14,80.01,1120.14,Regular,4.7,Antipasti,Mineola
+G0076,2023-05-20,2,78.29,156.58,Occasional,5.0,Antipasti,New Hyde Park
+G0077,2022-07-09,3,71.97,215.91,Occasional,5.0,Mix,Garden City
+G0078,2022-02-17,69,83.5,5761.5,VIP,5.0,Pasta,Floral Park
+G0079,2023-01-27,4,80.07,320.28,Occasional,5.0,Antipasti,Uniondale
+G0080,2024-04-14,34,48.55,1650.7,VIP,4.6,Secondi,Westbury
+G0081,2022-09-11,12,126.96,1523.52,Regular,5.0,Mix,New Hyde Park
+G0082,2023-02-22,5,95.73,478.65,Occasional,4.8,Secondi,New Hyde Park
+G0083,2025-04-07,23,116.81,2686.63,VIP,5.0,Pasta,New Hyde Park
+G0084,2024-01-01,9,70.68,636.12,Regular,5.0,Antipasti,Floral Park
+G0085,2023-02-01,1,115.09,115.09,Occasional,4.5,Antipasti,Uniondale
+G0086,2024-09-13,17,108.19,1839.23,Regular,3.2,Pasta,Carle Place
+G0087,2022-05-15,3,81.1,243.3,Occasional,5.0,Mix,Williston Park
+G0088,2025-08-09,1,63.91,63.91,Occasional,3.8,Antipasti,Garden City
+G0089,2025-11-20,54,76.4,4125.6,VIP,4.0,Pasta,Westbury
+G0090,2025-05-13,8,49.66,397.28,Regular,4.6,Secondi,Garden City
+G0091,2025-04-11,5,58.09,290.45,Occasional,5.0,Mix,New Hyde Park
+G0092,2025-10-09,2,74.35,148.7,Occasional,3.2,Antipasti,Floral Park
+G0093,2022-08-19,11,51.83,570.13,Regular,4.2,Secondi,New Hyde Park
+G0094,2024-04-10,6,63.6,381.6,Occasional,4.6,Pasta,New Hyde Park
+G0095,2024-11-23,19,50.29,955.51,Regular,3.9,Secondi,Great Neck
+G0096,2024-04-26,41,55.49,2275.09,VIP,4.7,Antipasti,Garden City
+G0097,2025-05-19,2,114.9,229.8,Occasional,4.2,Mix,Carle Place
+G0098,2026-03-22,21,72.04,1512.84,VIP,4.7,Antipasti,Floral Park
+G0099,2022-10-08,9,72.18,649.62,Regular,3.7,Pasta,Uniondale
+G0100,2024-02-20,1,69.25,69.25,Occasional,4.2,Pasta,Floral Park
+G0101,2024-10-01,32,84.74,2711.68,VIP,3.7,Antipasti,Great Neck
+G0102,2024-08-17,25,124.75,3118.75,VIP,3.8,Secondi,Mineola
+G0103,2026-03-28,34,76.47,2599.98,VIP,4.6,Antipasti,Hempstead
+G0104,2025-11-15,4,95.75,383.0,Occasional,4.4,Antipasti,Williston Park
+G0105,2024-11-17,10,79.95,799.5,Regular,3.8,Mix,Westbury
+G0106,2025-10-23,26,95.37,2479.62,VIP,4.2,Antipasti,New Hyde Park
+G0107,2023-01-20,27,82.04,2215.08,VIP,5.0,Antipasti,Carle Place
+G0108,2026-01-05,3,62.52,187.56,Occasional,4.8,Pasta,Williston Park
+G0109,2024-05-10,19,97.37,1850.03,Regular,3.6,Secondi,Uniondale
+G0110,2025-12-28,18,60.6,1090.8,Regular,4.6,Mix,Uniondale
+G0111,2024-02-28,17,54.21,921.57,Regular,5.0,Antipasti,Uniondale
+G0112,2026-01-25,3,119.29,357.87,Occasional,3.2,Antipasti,Williston Park
+G0113,2024-06-15,10,108.63,1086.3,Regular,5.0,Secondi,Hempstead
+G0114,2024-07-09,5,127.2,636.0,Occasional,5.0,Pasta,Uniondale
+G0115,2024-09-11,65,58.01,3770.65,VIP,5.0,Antipasti,Westbury
+G0116,2025-03-22,3,95.01,285.03,Occasional,3.5,Mix,New Hyde Park
+G0117,2025-06-03,22,113.16,2489.52,VIP,5.0,Antipasti,Garden City
+G0118,2023-11-18,6,49.93,299.58,Occasional,4.6,Mix,Great Neck
+G0119,2025-11-20,10,103.66,1036.6,Regular,4.8,Secondi,Garden City
+G0120,2024-05-16,6,95.05,570.3,Occasional,2.6,Mix,Carle Place
+G0121,2024-03-01,2,121.14,242.28,Occasional,4.5,Antipasti,Hempstead
+G0122,2023-09-27,11,100.59,1106.49,Regular,5.0,Mix,Floral Park
+G0123,2026-02-02,10,61.47,614.7,Regular,4.8,Mix,Mineola
+G0124,2023-01-15,1,120.67,120.67,Occasional,3.5,Pasta,Carle Place
+G0125,2023-11-17,6,126.98,761.88,Occasional,3.7,Secondi,Uniondale
+G0126,2024-09-01,6,81.72,490.32,Occasional,4.9,Antipasti,Uniondale
+G0127,2023-01-15,70,114.08,7985.6,VIP,3.9,Secondi,Garden City
+G0128,2023-02-06,2,69.3,138.6,Occasional,4.0,Secondi,Williston Park
+G0129,2025-07-20,4,117.33,469.32,Occasional,5.0,Secondi,Westbury
+G0130,2023-05-27,18,56.2,1011.6,Regular,4.6,Mix,Williston Park
+G0131,2024-03-21,4,103.56,414.24,Occasional,4.6,Mix,Hempstead
+G0132,2023-07-20,4,73.4,293.6,Occasional,4.7,Secondi,Hempstead
+G0133,2026-02-03,5,89.72,448.6,Occasional,5.0,Mix,Williston Park
+G0134,2024-06-07,16,111.59,1785.44,Regular,5.0,Mix,Williston Park
+G0135,2022-10-11,10,111.27,1112.7,Regular,4.6,Antipasti,Floral Park
+G0136,2023-02-27,1,52.54,52.54,Occasional,5.0,Secondi,Hempstead
+G0137,2025-10-13,12,68.2,818.4,Regular,2.8,Mix,Williston Park
+G0138,2024-11-06,35,129.21,4522.35,VIP,5.0,Secondi,Garden City
+G0139,2024-01-25,18,57.09,1027.62,Regular,5.0,Secondi,Floral Park
+G0140,2024-05-06,8,91.72,733.76,Regular,5.0,Antipasti,Westbury
+G0141,2022-01-13,1,81.47,81.47,Occasional,5.0,Pasta,Williston Park
+G0142,2026-02-05,15,123.54,1853.1,Regular,5.0,Antipasti,Garden City
+G0143,2024-05-19,3,127.37,382.11,Occasional,4.2,Pasta,Mineola
+G0144,2025-04-05,6,109.13,654.78,Occasional,5.0,Secondi,Mineola
+G0145,2022-08-28,7,83.28,582.96,Occasional,4.4,Antipasti,Garden City
+G0146,2023-04-02,4,75.19,300.76,Occasional,3.6,Antipasti,Hempstead
+G0147,2023-05-11,1,58.01,58.01,Occasional,3.9,Antipasti,Uniondale
+G0148,2022-11-19,4,122.7,490.8,Occasional,4.3,Secondi,Westbury
+G0149,2026-02-03,17,72.77,1237.09,Regular,3.7,Mix,Uniondale
+G0150,2025-04-26,10,47.32,473.2,Regular,5.0,Mix,Hempstead
+G0151,2023-02-09,14,85.52,1197.28,Regular,4.3,Secondi,Mineola
+G0152,2025-01-02,55,118.97,6543.35,VIP,5.0,Pasta,Uniondale
+G0153,2025-02-11,29,112.94,3275.26,VIP,4.0,Antipasti,New Hyde Park
+G0154,2024-06-08,3,87.64,262.92,Occasional,4.5,Secondi,Great Neck
+G0155,2022-04-03,15,79.31,1189.65,Regular,5.0,Mix,Uniondale
+G0156,2025-11-08,2,87.6,175.2,Occasional,3.7,Pasta,Floral Park
+G0157,2025-01-26,1,52.03,52.03,Occasional,4.4,Mix,Uniondale
+G0158,2026-04-13,8,86.83,694.64,Regular,3.8,Antipasti,Mineola
+G0159,2025-11-19,16,114.53,1832.48,Regular,5.0,Antipasti,Uniondale
+G0160,2022-05-28,8,46.91,375.28,Regular,2.6,Pasta,Westbury
+G0161,2024-05-12,19,72.32,1374.08,Regular,4.1,Secondi,Williston Park
+G0162,2024-10-19,5,81.49,407.45,Occasional,4.4,Secondi,New Hyde Park
+G0163,2024-08-10,3,112.36,337.08,Occasional,5.0,Secondi,Uniondale
+G0164,2023-07-26,17,75.69,1286.73,Regular,5.0,Secondi,New Hyde Park
+G0165,2023-07-25,12,67.83,813.96,Regular,4.5,Antipasti,Mineola
+G0166,2022-07-21,8,58.58,468.64,Regular,5.0,Pasta,Floral Park
+G0167,2023-05-26,12,111.22,1334.64,Regular,5.0,Antipasti,Great Neck
+G0168,2023-10-09,8,54.93,439.44,Regular,5.0,Antipasti,Carle Place
+G0169,2022-10-12,7,47.36,331.52,Occasional,4.7,Secondi,New Hyde Park
+G0170,2023-09-17,28,68.58,1920.24,VIP,3.7,Pasta,Carle Place
+G0171,2024-01-15,53,57.38,3041.14,VIP,5.0,Secondi,Floral Park
+G0172,2022-04-17,11,56.33,619.63,Regular,5.0,Secondi,Uniondale
+G0173,2022-10-16,7,64.3,450.1,Occasional,5.0,Mix,Floral Park
+G0174,2023-12-16,13,74.4,967.2,Regular,4.8,Mix,Floral Park
+G0175,2022-12-10,4,81.02,324.08,Occasional,5.0,Antipasti,Uniondale
+G0176,2026-03-24,3,50.13,150.39,Occasional,3.7,Antipasti,Williston Park
+G0177,2024-05-28,4,105.21,420.84,Occasional,5.0,Pasta,Floral Park
+G0178,2025-06-05,5,106.09,530.45,Occasional,3.6,Secondi,Carle Place
+G0179,2024-01-18,9,51.76,465.84,Regular,5.0,Mix,Hempstead
+G0180,2024-04-27,10,60.87,608.7,Regular,4.8,Antipasti,Uniondale
+G0181,2023-10-08,11,98.23,1080.53,Regular,3.7,Pasta,New Hyde Park
+G0182,2025-09-10,1,97.59,97.59,Occasional,4.6,Secondi,Williston Park
+G0183,2024-01-01,23,107.54,2473.42,VIP,5.0,Antipasti,Great Neck
+G0184,2025-02-06,3,111.1,333.3,Occasional,3.2,Mix,Hempstead
+G0185,2024-01-18,12,71.61,859.32,Regular,4.1,Mix,Floral Park
+G0186,2024-05-22,12,101.41,1216.92,Regular,3.7,Antipasti,Mineola
+G0187,2025-03-03,18,120.01,2160.18,Regular,5.0,Antipasti,Carle Place
+G0188,2024-04-03,8,46.7,373.6,Regular,2.9,Antipasti,Westbury
+G0189,2024-03-17,7,66.52,465.64,Occasional,4.9,Mix,Great Neck
+G0190,2023-02-05,14,54.82,767.48,Regular,4.7,Secondi,Floral Park
+G0191,2025-01-25,14,46.87,656.18,Regular,4.9,Mix,Floral Park
+G0192,2023-01-19,4,55.23,220.92,Occasional,5.0,Antipasti,Westbury
+G0193,2023-05-17,17,82.28,1398.76,Regular,5.0,Antipasti,Garden City
+G0194,2022-09-02,6,65.21,391.26,Occasional,3.8,Pasta,Mineola
+G0195,2025-10-16,6,68.63,411.78,Occasional,4.1,Secondi,New Hyde Park
+G0196,2026-01-11,2,89.6,179.2,Occasional,5.0,Antipasti,Hempstead
+G0197,2022-12-06,6,119.49,716.94,Occasional,2.8,Antipasti,Floral Park
+G0198,2023-05-22,12,74.79,897.48,Regular,4.8,Pasta,Westbury
+G0199,2022-05-03,3,74.12,222.36,Occasional,5.0,Pasta,Carle Place
+G0200,2024-03-12,28,72.71,2035.88,VIP,5.0,Secondi,Hempstead
+G0201,2025-03-10,7,73.59,515.13,Occasional,4.3,Secondi,Hempstead
+G0202,2024-08-05,4,45.16,180.64,Occasional,5.0,Antipasti,Floral Park
+G0203,2024-09-07,17,86.48,1470.16,Regular,5.0,Secondi,Garden City
+G0204,2025-06-23,36,59.48,2141.28,VIP,3.7,Pasta,Great Neck
+G0205,2022-04-11,66,87.59,5780.94,VIP,4.9,Secondi,Williston Park
+G0206,2025-10-05,8,58.01,464.08,Regular,5.0,Mix,Hempstead
+G0207,2023-08-25,6,82.82,496.92,Occasional,5.0,Mix,New Hyde Park
+G0208,2023-08-26,34,81.61,2774.74,VIP,4.4,Antipasti,New Hyde Park
+G0209,2022-12-16,2,59.77,119.54,Occasional,2.8,Mix,Garden City
+G0210,2026-01-24,6,96.27,577.62,Occasional,3.8,Antipasti,Floral Park
+G0211,2022-12-17,4,52.41,209.64,Occasional,4.7,Antipasti,Great Neck
+G0212,2022-10-09,23,63.2,1453.6,VIP,3.8,Pasta,New Hyde Park
+G0213,2025-03-01,16,88.84,1421.44,Regular,4.9,Antipasti,New Hyde Park
+G0214,2023-02-07,18,117.35,2112.3,Regular,4.6,Pasta,Great Neck
+G0215,2023-11-20,5,56.82,284.1,Occasional,5.0,Pasta,Mineola
+G0216,2024-06-16,17,100.4,1706.8,Regular,4.4,Antipasti,Garden City
+G0217,2025-09-17,5,96.07,480.35,Occasional,5.0,Pasta,Williston Park
+G0218,2023-08-20,4,63.06,252.24,Occasional,5.0,Mix,Hempstead
+G0219,2022-06-05,7,99.28,694.96,Occasional,4.6,Pasta,Great Neck
+G0220,2024-01-04,22,72.27,1589.94,VIP,5.0,Antipasti,Williston Park
+G0221,2024-10-08,7,52.34,366.38,Occasional,5.0,Pasta,Floral Park
+G0222,2024-04-07,1,79.28,79.28,Occasional,5.0,Pasta,Williston Park
+G0223,2025-02-10,3,47.05,141.15,Occasional,3.7,Secondi,Garden City
+G0224,2022-08-22,7,94.6,662.2,Occasional,5.0,Antipasti,Williston Park
+G0225,2022-10-09,41,89.28,3660.48,VIP,4.6,Secondi,Floral Park
+G0226,2025-09-13,1,103.65,103.65,Occasional,5.0,Antipasti,New Hyde Park
+G0227,2024-11-15,25,120.84,3021.0,VIP,3.6,Pasta,Garden City
+G0228,2024-09-02,2,96.92,193.84,Occasional,3.9,Secondi,Hempstead
+G0229,2024-04-09,8,76.06,608.48,Regular,3.7,Mix,Westbury
+G0230,2022-07-06,5,57.35,286.75,Occasional,4.9,Pasta,Floral Park
+G0231,2024-04-24,13,113.05,1469.65,Regular,4.6,Mix,Westbury
+G0232,2025-06-07,4,61.01,244.04,Occasional,5.0,Pasta,Hempstead
+G0233,2024-11-24,18,60.96,1097.28,Regular,5.0,Pasta,Williston Park
+G0234,2023-04-07,3,83.69,251.07,Occasional,5.0,Pasta,Williston Park
+G0235,2022-05-06,2,110.32,220.64,Occasional,3.7,Secondi,New Hyde Park
+G0236,2025-10-03,11,94.42,1038.62,Regular,5.0,Antipasti,Hempstead
+G0237,2025-02-13,4,92.52,370.08,Occasional,4.8,Secondi,Garden City
+G0238,2024-12-24,15,98.91,1483.65,Regular,3.2,Secondi,Williston Park
+G0239,2023-08-27,4,84.67,338.68,Occasional,4.6,Mix,Uniondale
+G0240,2024-09-16,5,60.72,303.6,Occasional,3.6,Secondi,Williston Park
+G0241,2026-04-17,3,83.5,250.5,Occasional,4.8,Secondi,Westbury
+G0242,2024-09-13,4,116.9,467.6,Occasional,3.8,Mix,Hempstead
+G0243,2024-07-15,9,83.64,752.76,Regular,4.6,Secondi,New Hyde Park
+G0244,2024-08-28,1,111.95,111.95,Occasional,5.0,Pasta,Williston Park
+G0245,2023-02-27,9,62.96,566.64,Regular,5.0,Mix,Uniondale
+G0246,2025-07-19,8,60.93,487.44,Regular,3.5,Secondi,New Hyde Park
+G0247,2025-06-16,53,95.88,5081.64,VIP,3.8,Pasta,Great Neck
+G0248,2025-06-22,20,120.67,2413.4,VIP,4.7,Secondi,Great Neck
+G0249,2024-11-19,5,120.38,601.9,Occasional,5.0,Pasta,Floral Park
+G0250,2023-10-23,15,90.09,1351.35,Regular,4.0,Pasta,Carle Place
+G0251,2025-11-08,3,54.12,162.36,Occasional,4.4,Pasta,Carle Place
+G0252,2024-01-04,11,78.05,858.55,Regular,5.0,Pasta,Carle Place
+G0253,2024-04-28,1,119.96,119.96,Occasional,4.8,Pasta,Floral Park
+G0254,2022-10-25,58,128.44,7449.52,VIP,4.4,Mix,Westbury
+G0255,2025-04-09,10,85.87,858.7,Regular,4.1,Secondi,Hempstead
+G0256,2024-01-23,11,117.45,1291.95,Regular,3.9,Antipasti,Uniondale
+G0257,2023-05-15,17,119.9,2038.3,Regular,3.5,Antipasti,New Hyde Park
+G0258,2022-11-12,3,76.83,230.49,Occasional,2.7,Pasta,Garden City
+G0259,2023-11-22,9,80.53,724.77,Regular,5.0,Mix,Garden City
+G0260,2023-09-08,26,111.51,2899.26,VIP,4.5,Mix,Mineola
+G0261,2022-03-04,25,107.88,2697.0,VIP,4.7,Secondi,Great Neck
+G0262,2023-07-14,14,93.82,1313.48,Regular,5.0,Antipasti,Floral Park
+G0263,2025-05-23,6,46.54,279.24,Occasional,4.6,Pasta,Great Neck
+G0264,2025-04-16,10,82.17,821.7,Regular,5.0,Mix,Hempstead
+G0265,2025-02-03,45,62.08,2793.6,VIP,4.5,Secondi,Garden City
+G0266,2023-04-07,37,82.78,3062.86,VIP,4.6,Mix,New Hyde Park
+G0267,2023-04-27,5,120.58,602.9,Occasional,5.0,Antipasti,New Hyde Park
+G0268,2024-04-11,5,81.52,407.6,Occasional,5.0,Pasta,Mineola
+G0269,2022-02-06,4,45.77,183.08,Occasional,5.0,Pasta,Garden City
+G0270,2025-06-02,3,58.53,175.59,Occasional,4.0,Secondi,Carle Place
+G0271,2025-12-24,16,84.69,1355.04,Regular,5.0,Mix,New Hyde Park
+G0272,2026-02-10,2,60.61,121.22,Occasional,5.0,Pasta,Floral Park
+G0273,2024-04-04,6,122.37,734.22,Occasional,4.7,Pasta,Hempstead
+G0274,2023-06-05,4,113.43,453.72,Occasional,5.0,Pasta,Garden City
+G0275,2025-03-25,1,76.83,76.83,Occasional,5.0,Secondi,Uniondale
+G0276,2024-11-24,26,121.8,3166.8,VIP,4.8,Pasta,Hempstead
+G0277,2023-10-08,15,71.23,1068.45,Regular,3.5,Secondi,Williston Park
+G0278,2024-11-14,31,103.55,3210.05,VIP,4.8,Secondi,Williston Park
+G0279,2022-02-18,39,116.78,4554.42,VIP,5.0,Antipasti,Great Neck
+G0280,2023-09-07,6,129.86,779.16,Occasional,3.8,Pasta,Great Neck
+G0281,2024-01-12,5,90.25,451.25,Occasional,4.9,Secondi,Carle Place
+G0282,2023-12-20,32,83.35,2667.2,VIP,3.8,Antipasti,Floral Park
+G0283,2024-12-16,2,68.57,137.14,Occasional,3.3,Secondi,Garden City
+G0284,2024-11-25,4,61.13,244.52,Occasional,4.6,Pasta,Carle Place
+G0285,2023-10-12,5,91.8,459.0,Occasional,4.9,Secondi,Great Neck
+G0286,2023-05-19,23,80.43,1849.89,VIP,5.0,Mix,Carle Place
+G0287,2026-02-24,12,97.35,1168.2,Regular,4.3,Mix,Westbury
+G0288,2025-12-24,13,57.66,749.58,Regular,4.8,Antipasti,Uniondale
+G0289,2024-11-22,14,108.2,1514.8,Regular,4.2,Pasta,Carle Place
+G0290,2024-05-16,24,78.14,1875.36,VIP,4.6,Antipasti,Garden City
+G0291,2023-12-16,9,112.48,1012.32,Regular,5.0,Mix,Garden City
+G0292,2025-09-11,8,109.6,876.8,Regular,3.9,Pasta,Great Neck
+G0293,2026-02-10,3,45.98,137.94,Occasional,5.0,Secondi,Westbury
+G0294,2024-09-14,22,69.17,1521.74,VIP,5.0,Pasta,Carle Place
+G0295,2023-09-01,17,81.49,1385.33,Regular,5.0,Secondi,Westbury
+G0296,2024-11-18,1,73.64,73.64,Occasional,3.6,Antipasti,Great Neck
+G0297,2025-05-05,10,59.59,595.9,Regular,5.0,Mix,Floral Park
+G0298,2024-06-27,3,118.25,354.75,Occasional,5.0,Antipasti,Great Neck
+G0299,2022-01-18,13,50.0,650.0,Regular,4.8,Antipasti,Westbury
+G0300,2023-01-06,4,54.62,218.48,Occasional,4.2,Antipasti,Mineola
+G0301,2023-03-27,6,78.87,473.22,Occasional,4.4,Antipasti,Westbury
+G0302,2024-03-08,9,67.37,606.33,Regular,4.7,Pasta,Williston Park
+G0303,2023-01-15,3,119.86,359.58,Occasional,3.7,Secondi,Floral Park
+G0304,2025-04-10,2,46.56,93.12,Occasional,3.6,Pasta,Garden City
+G0305,2022-04-03,12,79.54,954.48,Regular,4.9,Secondi,Floral Park
+G0306,2025-10-20,4,107.59,430.36,Occasional,3.5,Antipasti,Mineola
+G0307,2023-08-25,1,119.8,119.8,Occasional,5.0,Mix,Mineola
+G0308,2023-02-11,19,95.3,1810.7,Regular,2.8,Pasta,Hempstead
+G0309,2026-04-22,9,79.54,715.86,Regular,5.0,Secondi,Garden City
+G0310,2026-03-12,19,91.9,1746.1,Regular,4.4,Secondi,Floral Park
+G0311,2026-04-17,40,71.83,2873.2,VIP,5.0,Pasta,New Hyde Park
+G0312,2022-11-09,3,67.38,202.14,Occasional,4.6,Pasta,Hempstead
+G0313,2023-03-01,6,81.1,486.6,Occasional,3.1,Antipasti,New Hyde Park
+G0314,2023-12-06,8,68.37,546.96,Regular,3.7,Antipasti,Garden City
+G0315,2022-12-17,11,50.08,550.88,Regular,5.0,Mix,Garden City
+G0316,2024-03-21,12,75.43,905.16,Regular,4.8,Mix,Westbury
+G0317,2025-12-28,1,125.03,125.03,Occasional,4.4,Mix,Floral Park
+G0318,2023-09-17,13,51.47,669.11,Regular,5.0,Secondi,Great Neck
+G0319,2025-04-12,27,95.02,2565.54,VIP,4.0,Antipasti,Hempstead
+G0320,2025-03-07,17,112.86,1918.62,Regular,4.4,Antipasti,New Hyde Park
+G0321,2024-06-21,17,98.34,1671.78,Regular,4.5,Pasta,New Hyde Park
+G0322,2023-05-10,11,78.19,860.09,Regular,2.8,Secondi,New Hyde Park
+G0323,2025-04-26,8,71.32,570.56,Regular,3.6,Mix,Uniondale
+G0324,2024-02-28,23,65.69,1510.87,VIP,5.0,Mix,Floral Park
+G0325,2026-01-24,9,64.51,580.59,Regular,3.6,Mix,Garden City
+G0326,2025-06-17,2,50.09,100.18,Occasional,4.7,Antipasti,Mineola
+G0327,2026-03-13,2,101.25,202.5,Occasional,4.0,Antipasti,Williston Park
+G0328,2025-03-27,8,100.36,802.88,Regular,4.8,Pasta,Westbury
+G0329,2022-01-14,2,126.88,253.76,Occasional,5.0,Mix,Hempstead
+G0330,2023-01-03,10,58.72,587.2,Regular,5.0,Secondi,Floral Park
+G0331,2025-11-12,24,96.72,2321.28,VIP,4.8,Mix,New Hyde Park
+G0332,2022-01-09,7,63.49,444.43,Occasional,4.7,Secondi,Great Neck
+G0333,2023-12-15,1,77.27,77.27,Occasional,3.7,Mix,Great Neck
+G0334,2024-11-04,9,80.79,727.11,Regular,4.3,Mix,Westbury
+G0335,2026-03-22,7,77.35,541.45,Occasional,3.8,Antipasti,Mineola
+G0336,2024-05-08,20,69.62,1392.4,VIP,5.0,Pasta,Mineola
+G0337,2025-11-05,17,86.33,1467.61,Regular,3.0,Antipasti,Floral Park
+G0338,2024-03-07,1,122.57,122.57,Occasional,5.0,Antipasti,Carle Place
+G0339,2025-05-15,3,61.09,183.27,Occasional,5.0,Secondi,Floral Park
+G0340,2025-04-27,10,119.21,1192.1,Regular,5.0,Secondi,Hempstead
+G0341,2023-05-10,2,126.28,252.56,Occasional,4.0,Antipasti,Westbury
+G0342,2023-06-13,5,65.87,329.35,Occasional,5.0,Mix,Garden City
+G0343,2026-01-12,16,91.17,1458.72,Regular,5.0,Pasta,Hempstead
+G0344,2023-09-04,9,97.47,877.23,Regular,4.5,Pasta,Uniondale
+G0345,2023-04-25,2,96.66,193.32,Occasional,5.0,Pasta,Uniondale
+G0346,2025-07-10,8,85.06,680.48,Regular,5.0,Secondi,Great Neck
+G0347,2023-05-28,13,80.75,1049.75,Regular,5.0,Mix,Great Neck
+G0348,2023-06-22,16,56.55,904.8,Regular,5.0,Secondi,Uniondale
+G0349,2024-11-03,1,69.99,69.99,Occasional,4.3,Secondi,Uniondale
+G0350,2025-01-23,2,64.12,128.24,Occasional,4.8,Secondi,New Hyde Park
+G0351,2023-03-22,1,90.5,90.5,Occasional,4.7,Pasta,Uniondale
+G0352,2024-10-26,31,103.54,3209.74,VIP,3.4,Secondi,Floral Park
+G0353,2023-07-08,9,120.93,1088.37,Regular,4.5,Mix,Garden City
+G0354,2024-02-14,3,95.26,285.78,Occasional,4.5,Pasta,Westbury
+G0355,2025-10-12,8,71.41,571.28,Regular,5.0,Mix,Hempstead
+G0356,2026-04-06,5,70.58,352.9,Occasional,4.7,Pasta,Mineola
+G0357,2022-07-12,6,115.53,693.18,Occasional,2.6,Secondi,Hempstead
+G0358,2023-07-19,31,77.72,2409.32,VIP,5.0,Secondi,Uniondale
+G0359,2024-03-19,2,70.71,141.42,Occasional,5.0,Mix,Williston Park
+G0360,2022-03-28,11,53.26,585.86,Regular,4.1,Pasta,Hempstead
+G0361,2025-06-13,10,99.9,999.0,Regular,5.0,Mix,Mineola
+G0362,2025-05-18,5,59.08,295.4,Occasional,4.0,Mix,Mineola
+G0363,2024-10-27,32,124.19,3974.08,VIP,3.9,Antipasti,Uniondale
+G0364,2023-10-18,20,68.68,1373.6,VIP,5.0,Pasta,Westbury
+G0365,2025-09-15,10,78.45,784.5,Regular,3.6,Secondi,New Hyde Park
+G0366,2023-08-03,1,82.04,82.04,Occasional,3.9,Antipasti,Carle Place
+G0367,2023-12-04,29,98.21,2848.09,VIP,3.7,Mix,Westbury
+G0368,2024-05-03,1,88.04,88.04,Occasional,4.7,Pasta,Mineola
+G0369,2024-02-16,8,75.18,601.44,Regular,5.0,Pasta,Uniondale
+G0370,2024-12-03,11,59.2,651.2,Regular,3.6,Mix,Garden City
+G0371,2024-09-20,7,103.72,726.04,Occasional,5.0,Antipasti,Williston Park
+G0372,2025-01-21,8,91.62,732.96,Regular,4.6,Antipasti,New Hyde Park
+G0373,2024-01-20,10,67.35,673.5,Regular,5.0,Secondi,Uniondale
+G0374,2023-02-21,7,78.7,550.9,Occasional,2.9,Mix,New Hyde Park
+G0375,2024-05-24,3,84.81,254.43,Occasional,5.0,Secondi,Hempstead
+G0376,2025-04-13,7,129.48,906.36,Occasional,5.0,Pasta,Carle Place
+G0377,2023-08-01,50,59.34,2967.0,VIP,5.0,Mix,Floral Park
+G0378,2022-06-10,3,90.54,271.62,Occasional,5.0,Antipasti,New Hyde Park
+G0379,2026-02-22,51,74.78,3813.78,VIP,4.1,Secondi,Westbury
+G0380,2024-02-28,5,90.64,453.2,Occasional,5.0,Antipasti,Uniondale
+G0381,2023-03-16,7,49.51,346.57,Occasional,5.0,Antipasti,New Hyde Park
+G0382,2023-02-27,7,100.06,700.42,Occasional,4.7,Secondi,Williston Park
+G0383,2022-09-17,1,129.28,129.28,Occasional,2.8,Antipasti,Great Neck
+G0384,2024-09-15,17,45.77,778.09,Regular,3.0,Mix,Uniondale
+G0385,2023-02-04,55,119.44,6569.2,VIP,4.4,Pasta,Uniondale
+G0386,2026-02-04,6,60.3,361.8,Occasional,5.0,Secondi,Westbury
+G0387,2025-05-03,1,106.82,106.82,Occasional,5.0,Antipasti,Westbury
+G0388,2022-07-01,6,121.45,728.7,Occasional,4.2,Mix,Hempstead
+G0389,2025-11-28,6,75.27,451.62,Occasional,4.7,Antipasti,Mineola
+G0390,2025-07-04,13,114.18,1484.34,Regular,4.0,Antipasti,New Hyde Park
+G0391,2024-05-19,8,47.79,382.32,Regular,3.8,Secondi,Carle Place
+G0392,2025-01-05,23,111.28,2559.44,VIP,4.8,Mix,Williston Park
+G0393,2023-08-21,9,80.99,728.91,Regular,4.9,Pasta,Great Neck
+G0394,2022-07-02,12,128.92,1547.04,Regular,4.6,Secondi,Westbury
+G0395,2024-08-05,23,77.14,1774.22,VIP,5.0,Mix,Floral Park
+G0396,2024-02-07,10,63.91,639.1,Regular,5.0,Pasta,Hempstead
+G0397,2023-03-15,14,74.32,1040.48,Regular,5.0,Secondi,Garden City
+G0398,2023-07-24,26,66.74,1735.24,VIP,3.9,Secondi,Westbury
+G0399,2022-03-15,26,129.16,3358.16,VIP,5.0,Antipasti,Hempstead
+G0400,2022-01-24,19,117.74,2237.06,Regular,2.8,Mix,Uniondale
+G0401,2022-07-02,2,70.55,141.1,Occasional,4.3,Antipasti,Carle Place
+G0402,2022-02-07,8,92.85,742.8,Regular,4.2,Pasta,Carle Place
+G0403,2023-09-06,5,47.8,239.0,Occasional,5.0,Pasta,Garden City
+G0404,2025-12-11,18,99.68,1794.24,Regular,5.0,Antipasti,Hempstead
+G0405,2024-05-01,7,87.8,614.6,Occasional,4.2,Mix,Westbury
+G0406,2023-04-09,23,107.4,2470.2,VIP,3.5,Mix,Carle Place
+G0407,2025-09-16,18,52.35,942.3,Regular,5.0,Mix,Uniondale
+G0408,2024-03-15,11,91.82,1010.02,Regular,4.7,Secondi,Mineola
+G0409,2022-10-27,14,68.18,954.52,Regular,4.8,Antipasti,Carle Place
+G0410,2022-02-03,14,78.72,1102.08,Regular,5.0,Mix,Mineola
+G0411,2024-02-20,5,89.1,445.5,Occasional,5.0,Pasta,Carle Place
+G0412,2024-04-06,22,125.56,2762.32,VIP,4.2,Pasta,Garden City
+G0413,2024-09-15,9,55.8,502.2,Regular,5.0,Antipasti,Carle Place
+G0414,2025-10-02,5,97.66,488.3,Occasional,5.0,Mix,Hempstead
+G0415,2024-09-28,45,91.31,4108.95,VIP,4.4,Antipasti,New Hyde Park
+G0416,2022-12-01,1,121.48,121.48,Occasional,4.6,Pasta,Williston Park
+G0417,2022-01-09,4,51.99,207.96,Occasional,5.0,Mix,Carle Place
+G0418,2022-01-01,10,73.1,731.0,Regular,4.9,Mix,Williston Park
+G0419,2023-10-23,19,72.04,1368.76,Regular,4.3,Mix,New Hyde Park
+G0420,2023-11-27,2,74.16,148.32,Occasional,5.0,Pasta,Williston Park
+G0421,2022-01-12,5,58.8,294.0,Occasional,4.9,Mix,Williston Park
+G0422,2024-02-02,20,45.01,900.2,VIP,2.6,Pasta,Williston Park
+G0423,2026-02-04,9,69.33,623.97,Regular,2.6,Pasta,New Hyde Park
+G0424,2025-05-22,15,78.43,1176.45,Regular,3.5,Antipasti,New Hyde Park
+G0425,2025-03-21,3,118.8,356.4,Occasional,5.0,Antipasti,Garden City
+G0426,2024-10-10,13,91.92,1194.96,Regular,4.1,Mix,Williston Park
+G0427,2023-07-25,2,125.93,251.86,Occasional,4.8,Pasta,Great Neck
+G0428,2023-08-16,88,51.34,4517.92,VIP,4.4,Mix,Mineola
+G0429,2025-05-19,9,89.26,803.34,Regular,4.9,Mix,Mineola
+G0430,2023-06-04,27,65.99,1781.73,VIP,5.0,Secondi,Westbury
+G0431,2024-12-20,5,81.63,408.15,Occasional,3.8,Antipasti,Williston Park
+G0432,2022-05-28,36,87.32,3143.52,VIP,4.7,Antipasti,Williston Park
+G0433,2024-03-28,24,48.78,1170.72,VIP,5.0,Mix,Carle Place
+G0434,2026-04-07,8,115.36,922.88,Regular,5.0,Mix,Hempstead
+G0435,2023-02-02,22,94.92,2088.24,VIP,5.0,Secondi,Mineola
+G0436,2025-02-11,3,46.86,140.58,Occasional,3.5,Pasta,Mineola
+G0437,2024-12-03,13,45.79,595.27,Regular,4.5,Mix,Hempstead
+G0438,2024-12-25,14,66.04,924.56,Regular,5.0,Secondi,New Hyde Park
+G0439,2025-09-08,2,95.4,190.8,Occasional,5.0,Mix,New Hyde Park
+G0440,2026-02-03,11,120.59,1326.49,Regular,3.9,Mix,Carle Place
+G0441,2022-11-03,5,97.35,486.75,Occasional,4.9,Mix,New Hyde Park
+G0442,2025-06-19,24,113.33,2719.92,VIP,4.0,Pasta,Hempstead
+G0443,2024-11-17,43,60.25,2590.75,VIP,5.0,Secondi,Floral Park
+G0444,2024-06-21,26,127.34,3310.84,VIP,4.7,Antipasti,Floral Park
+G0445,2026-02-06,39,126.76,4943.64,VIP,5.0,Antipasti,Floral Park
+G0446,2023-10-23,22,72.59,1596.98,VIP,4.0,Mix,Westbury
+G0447,2023-01-14,19,73.47,1395.93,Regular,5.0,Pasta,New Hyde Park
+G0448,2025-03-15,18,45.99,827.82,Regular,4.4,Secondi,Hempstead
+G0449,2022-02-14,8,117.82,942.56,Regular,5.0,Secondi,Westbury
+G0450,2025-04-09,11,88.16,969.76,Regular,3.6,Mix,New Hyde Park
+G0451,2025-11-21,33,96.12,3171.96,VIP,5.0,Pasta,New Hyde Park
+G0452,2022-11-26,22,92.33,2031.26,VIP,4.6,Mix,Williston Park
+G0453,2024-08-20,9,126.55,1138.95,Regular,3.9,Pasta,Uniondale
+G0454,2026-04-07,1,129.26,129.26,Occasional,4.9,Antipasti,Carle Place
+G0455,2023-05-02,1,119.97,119.97,Occasional,5.0,Antipasti,Williston Park
+G0456,2024-01-03,1,122.07,122.07,Occasional,5.0,Pasta,Carle Place
+G0457,2026-02-06,10,122.71,1227.1,Regular,4.7,Mix,Carle Place
+G0458,2025-12-04,2,86.95,173.9,Occasional,5.0,Secondi,Hempstead
+G0459,2023-03-22,10,76.24,762.4,Regular,4.7,Antipasti,Carle Place
+G0460,2024-08-06,33,76.66,2529.78,VIP,3.5,Mix,Garden City
+G0461,2023-05-06,23,110.44,2540.12,VIP,4.7,Mix,Mineola
+G0462,2022-06-26,7,87.24,610.68,Occasional,5.0,Secondi,Mineola
+G0463,2022-06-27,28,51.27,1435.56,VIP,4.7,Secondi,Hempstead
+G0464,2024-08-08,23,123.29,2835.67,VIP,5.0,Mix,Hempstead
+G0465,2025-07-08,3,115.03,345.09,Occasional,3.1,Mix,Great Neck
+G0466,2024-08-13,23,129.38,2975.74,VIP,4.2,Secondi,Garden City
+G0467,2025-04-02,14,87.25,1221.5,Regular,4.1,Pasta,Westbury
+G0468,2026-03-16,5,51.43,257.15,Occasional,5.0,Antipasti,Uniondale
+G0469,2025-11-19,37,106.54,3941.98,VIP,4.7,Mix,Carle Place
+G0470,2025-03-12,34,52.62,1789.08,VIP,4.6,Secondi,Floral Park
+G0471,2024-09-01,16,53.94,863.04,Regular,5.0,Mix,Garden City
+G0472,2025-06-17,4,50.3,201.2,Occasional,4.8,Antipasti,Hempstead
+G0473,2025-02-22,16,93.89,1502.24,Regular,5.0,Antipasti,Williston Park
+G0474,2023-06-22,5,111.83,559.15,Occasional,5.0,Pasta,Carle Place
+G0475,2025-11-23,7,116.06,812.42,Occasional,4.8,Antipasti,Uniondale
+G0476,2024-10-10,17,49.46,840.82,Regular,5.0,Pasta,Uniondale
+G0477,2026-04-05,15,56.45,846.75,Regular,4.9,Secondi,Hempstead
+G0478,2026-04-02,18,61.54,1107.72,Regular,4.9,Mix,Uniondale
+G0479,2025-05-25,34,119.86,4075.24,VIP,5.0,Mix,Hempstead
+G0480,2022-09-21,2,111.63,223.26,Occasional,4.0,Antipasti,Mineola
+G0481,2023-02-14,6,112.46,674.76,Occasional,4.8,Antipasti,New Hyde Park
+G0482,2024-11-26,14,101.89,1426.46,Regular,4.5,Pasta,New Hyde Park
+G0483,2022-11-10,6,61.55,369.3,Occasional,4.2,Pasta,Williston Park
+G0484,2023-04-27,11,50.68,557.48,Regular,4.9,Secondi,Floral Park
+G0485,2024-09-21,6,76.19,457.14,Occasional,4.3,Mix,New Hyde Park
+G0486,2023-05-23,2,66.15,132.3,Occasional,4.9,Pasta,Williston Park
+G0487,2022-12-03,39,52.15,2033.85,VIP,3.4,Antipasti,Williston Park
+G0488,2023-11-13,15,49.48,742.2,Regular,4.9,Mix,Williston Park
+G0489,2022-06-06,12,51.07,612.84,Regular,3.7,Secondi,New Hyde Park
+G0490,2025-05-17,7,54.27,379.89,Occasional,4.5,Secondi,Garden City
+G0491,2022-12-18,13,124.15,1613.95,Regular,3.6,Antipasti,Williston Park
+G0492,2024-12-26,5,99.86,499.3,Occasional,4.3,Pasta,Westbury
+G0493,2023-06-22,3,86.18,258.54,Occasional,5.0,Mix,Hempstead
+G0494,2023-01-28,9,113.05,1017.45,Regular,4.5,Pasta,Mineola
+G0495,2024-12-28,36,79.51,2862.36,VIP,4.6,Secondi,Westbury
+G0496,2023-01-06,15,60.48,907.2,Regular,5.0,Secondi,Williston Park
+G0497,2026-01-23,11,88.03,968.33,Regular,3.9,Secondi,Uniondale
+G0498,2022-07-28,22,128.92,2836.24,VIP,5.0,Pasta,Floral Park
+G0499,2025-03-08,22,108.13,2378.86,VIP,4.9,Mix,Williston Park
+G0500,2025-09-17,5,78.58,392.9,Occasional,3.7,Antipasti,Westbury
+G0501,2025-10-10,9,73.77,663.93,Regular,3.0,Secondi,Williston Park
+G0502,2022-01-05,3,98.9,296.7,Occasional,4.3,Antipasti,Williston Park
+G0503,2025-03-06,11,129.34,1422.74,Regular,5.0,Antipasti,Garden City
+G0504,2022-08-01,41,92.34,3785.94,VIP,4.5,Antipasti,Williston Park
+G0505,2026-01-19,10,60.56,605.6,Regular,5.0,Pasta,Carle Place
+G0506,2022-02-17,6,59.55,357.3,Occasional,4.8,Antipasti,Williston Park
+G0507,2024-10-09,18,126.26,2272.68,Regular,4.9,Pasta,New Hyde Park
+G0508,2023-09-06,7,46.35,324.45,Occasional,5.0,Pasta,Hempstead
+G0509,2025-05-11,27,51.92,1401.84,VIP,3.8,Secondi,Westbury
+G0510,2025-08-17,5,94.85,474.25,Occasional,5.0,Mix,Westbury
+G0511,2026-04-25,46,121.39,5583.94,VIP,5.0,Mix,Williston Park
+G0512,2025-09-25,2,66.27,132.54,Occasional,4.9,Antipasti,Garden City
+G0513,2023-09-13,12,111.79,1341.48,Regular,5.0,Mix,Floral Park
+G0514,2023-03-25,2,47.56,95.12,Occasional,4.6,Secondi,Uniondale
+G0515,2022-12-01,2,117.32,234.64,Occasional,5.0,Mix,Carle Place
+G0516,2026-03-17,15,91.54,1373.1,Regular,4.9,Mix,Mineola
+G0517,2023-11-16,1,113.16,113.16,Occasional,4.6,Mix,Williston Park
+G0518,2022-07-09,12,64.74,776.88,Regular,4.4,Pasta,Hempstead
+G0519,2023-12-23,18,58.61,1054.98,Regular,2.6,Pasta,Great Neck
+G0520,2025-04-20,6,99.57,597.42,Occasional,5.0,Mix,Westbury
+G0521,2023-07-19,5,51.52,257.6,Occasional,3.8,Pasta,Floral Park
+G0522,2026-03-10,4,73.81,295.24,Occasional,4.3,Antipasti,Garden City
+G0523,2022-06-26,5,122.2,611.0,Occasional,5.0,Antipasti,Mineola
+G0524,2024-11-10,18,69.59,1252.62,Regular,4.1,Secondi,Garden City
+G0525,2024-09-21,1,57.92,57.92,Occasional,5.0,Secondi,New Hyde Park
+G0526,2024-04-23,27,117.23,3165.21,VIP,4.8,Mix,Hempstead
+G0527,2025-07-05,25,56.16,1404.0,VIP,4.5,Antipasti,Mineola
+G0528,2025-05-09,1,50.49,50.49,Occasional,4.7,Mix,Westbury
+G0529,2024-01-06,2,94.14,188.28,Occasional,4.8,Antipasti,Mineola
+G0530,2023-10-02,6,60.03,360.18,Occasional,5.0,Pasta,Hempstead
+G0531,2026-01-21,1,46.35,46.35,Occasional,5.0,Secondi,New Hyde Park
+G0532,2023-02-04,10,46.88,468.8,Regular,3.5,Antipasti,Williston Park
+G0533,2023-08-16,4,72.45,289.8,Occasional,5.0,Secondi,Carle Place
+G0534,2025-10-04,9,73.21,658.89,Regular,5.0,Secondi,Westbury
+G0535,2025-06-11,8,101.83,814.64,Regular,4.8,Pasta,Westbury
+G0536,2023-09-20,16,82.33,1317.28,Regular,5.0,Secondi,Mineola
+G0537,2022-12-15,31,77.87,2413.97,VIP,3.1,Antipasti,Hempstead
+G0538,2023-04-28,14,119.79,1677.06,Regular,2.8,Antipasti,Mineola
+G0539,2024-08-19,7,118.82,831.74,Occasional,3.9,Pasta,Garden City
+G0540,2022-07-23,24,45.17,1084.08,VIP,4.5,Mix,Carle Place
+G0541,2025-10-15,16,60.56,968.96,Regular,4.9,Secondi,Westbury
+G0542,2024-10-05,12,96.43,1157.16,Regular,3.7,Antipasti,Great Neck
+G0543,2023-02-28,4,50.34,201.36,Occasional,4.6,Mix,Floral Park
+G0544,2022-11-17,5,88.86,444.3,Occasional,4.6,Pasta,Great Neck
+G0545,2025-05-03,3,52.67,158.01,Occasional,5.0,Pasta,Garden City
+G0546,2026-04-16,6,65.84,395.04,Occasional,5.0,Secondi,Garden City
+G0547,2024-09-10,9,59.95,539.55,Regular,4.7,Mix,Hempstead
+G0548,2022-05-09,8,74.09,592.72,Regular,5.0,Secondi,Garden City
+G0549,2022-07-11,12,71.83,861.96,Regular,3.8,Mix,Hempstead
+G0550,2026-02-07,7,57.64,403.48,Occasional,4.9,Mix,New Hyde Park
+G0551,2024-04-09,29,114.71,3326.59,VIP,5.0,Pasta,Garden City
+G0552,2023-01-19,10,125.95,1259.5,Regular,4.5,Secondi,New Hyde Park
+G0553,2022-07-08,8,86.68,693.44,Regular,5.0,Mix,Floral Park
+G0554,2024-09-24,35,87.71,3069.85,VIP,3.7,Mix,Floral Park
+G0555,2026-03-06,9,127.99,1151.91,Regular,5.0,Mix,New Hyde Park
+G0556,2023-12-28,13,102.38,1330.94,Regular,3.3,Antipasti,Garden City
+G0557,2024-06-11,15,113.95,1709.25,Regular,4.9,Antipasti,Garden City
+G0558,2023-03-25,1,93.94,93.94,Occasional,4.5,Secondi,Floral Park
+G0559,2022-10-21,2,87.54,175.08,Occasional,4.7,Antipasti,Williston Park
+G0560,2022-06-02,5,100.55,502.75,Occasional,4.5,Secondi,Floral Park
+G0561,2023-04-23,3,89.62,268.86,Occasional,2.6,Secondi,Uniondale
+G0562,2024-04-18,21,52.54,1103.34,VIP,4.0,Mix,Uniondale
+G0563,2022-10-07,43,115.46,4964.78,VIP,5.0,Pasta,New Hyde Park
+G0564,2024-03-11,16,51.57,825.12,Regular,5.0,Mix,New Hyde Park
+G0565,2024-05-05,1,103.01,103.01,Occasional,5.0,Antipasti,Mineola
+G0566,2025-05-27,17,121.42,2064.14,Regular,4.6,Antipasti,Williston Park
+G0567,2026-04-15,11,116.81,1284.91,Regular,3.7,Antipasti,Floral Park
+G0568,2024-01-24,1,127.83,127.83,Occasional,4.5,Secondi,Garden City
+G0569,2025-10-28,2,73.72,147.44,Occasional,5.0,Pasta,Hempstead
+G0570,2022-11-27,10,59.28,592.8,Regular,2.5,Antipasti,Carle Place
+G0571,2024-05-17,5,70.36,351.8,Occasional,5.0,Antipasti,Williston Park
+G0572,2025-11-12,15,115.58,1733.7,Regular,4.0,Secondi,Uniondale
+G0573,2022-03-01,11,49.85,548.35,Regular,4.8,Antipasti,New Hyde Park
+G0574,2023-10-23,16,129.55,2072.8,Regular,3.3,Pasta,Carle Place
+G0575,2023-01-06,7,116.24,813.68,Occasional,3.4,Mix,Uniondale
+G0576,2023-02-12,24,73.81,1771.44,VIP,4.5,Pasta,Westbury
+G0577,2023-07-20,3,50.94,152.82,Occasional,3.9,Secondi,Westbury
+G0578,2022-06-25,16,101.29,1620.64,Regular,3.9,Mix,Garden City
+G0579,2023-05-11,8,85.74,685.92,Regular,4.9,Mix,Westbury
+G0580,2025-08-16,46,81.75,3760.5,VIP,5.0,Pasta,Hempstead
+G0581,2026-02-19,11,129.85,1428.35,Regular,5.0,Antipasti,Westbury
+G0582,2023-02-25,12,48.29,579.48,Regular,3.6,Pasta,Uniondale
+G0583,2024-02-13,33,114.56,3780.48,VIP,5.0,Antipasti,Uniondale
+G0584,2022-03-21,2,79.49,158.98,Occasional,4.7,Mix,Floral Park
+G0585,2025-07-16,17,109.64,1863.88,Regular,4.5,Pasta,Floral Park
+G0586,2024-11-26,38,109.69,4168.22,VIP,4.3,Secondi,Garden City
+G0587,2025-09-08,16,113.9,1822.4,Regular,5.0,Pasta,Carle Place
+G0588,2023-03-07,10,69.74,697.4,Regular,3.6,Pasta,Westbury
+G0589,2024-01-25,7,126.74,887.18,Occasional,3.9,Mix,Williston Park
+G0590,2024-01-21,6,119.07,714.42,Occasional,4.3,Pasta,Uniondale
+G0591,2022-10-23,5,69.81,349.05,Occasional,4.9,Secondi,Mineola
+G0592,2025-11-26,3,123.21,369.63,Occasional,5.0,Secondi,Uniondale
+G0593,2023-06-02,14,68.38,957.32,Regular,5.0,Mix,Carle Place
+G0594,2023-11-05,16,108.9,1742.4,Regular,5.0,Mix,Floral Park
+G0595,2024-10-25,11,73.29,806.19,Regular,4.6,Antipasti,Carle Place
+G0596,2026-04-24,7,98.65,690.55,Occasional,5.0,Pasta,Williston Park
+G0597,2024-12-08,7,79.02,553.14,Occasional,5.0,Pasta,Hempstead
+G0598,2024-06-23,3,118.64,355.92,Occasional,4.8,Secondi,Hempstead
+G0599,2024-04-22,41,113.85,4667.85,VIP,4.5,Secondi,Great Neck
+G0600,2023-07-26,8,95.45,763.6,Regular,4.6,Antipasti,Floral Park
+G0601,2023-05-13,8,103.21,825.68,Regular,3.7,Secondi,Mineola
+G0602,2025-07-15,23,72.38,1664.74,VIP,4.3,Pasta,Hempstead
+G0603,2023-09-17,9,109.8,988.2,Regular,5.0,Secondi,Carle Place
+G0604,2023-08-13,1,101.84,101.84,Occasional,4.7,Secondi,Carle Place
+G0605,2024-06-02,7,106.61,746.27,Occasional,4.8,Secondi,Carle Place
+G0606,2023-08-21,15,65.78,986.7,Regular,4.7,Pasta,Carle Place
+G0607,2024-01-18,48,87.46,4198.08,VIP,5.0,Pasta,Great Neck
+G0608,2025-07-05,7,104.12,728.84,Occasional,4.0,Mix,New Hyde Park
+G0609,2022-03-07,2,63.2,126.4,Occasional,5.0,Secondi,Great Neck
+G0610,2022-11-22,3,121.15,363.45,Occasional,5.0,Pasta,New Hyde Park
+G0611,2023-08-21,1,116.94,116.94,Occasional,4.0,Pasta,Mineola
+G0612,2022-09-15,4,120.93,483.72,Occasional,3.6,Mix,Uniondale
+G0613,2025-06-15,12,97.4,1168.8,Regular,5.0,Mix,Mineola
+G0614,2025-07-06,5,106.4,532.0,Occasional,4.5,Pasta,Garden City
+G0615,2025-01-12,29,97.42,2825.18,VIP,5.0,Mix,Westbury
+G0616,2022-10-24,5,49.19,245.95,Occasional,4.5,Pasta,Carle Place
+G0617,2024-03-18,37,87.17,3225.29,VIP,2.7,Secondi,Garden City
+G0618,2026-02-03,3,64.03,192.09,Occasional,5.0,Pasta,Carle Place
+G0619,2023-10-03,1,127.12,127.12,Occasional,4.6,Mix,Williston Park
+G0620,2026-01-18,7,96.9,678.3,Occasional,4.9,Pasta,Floral Park
+G0621,2022-07-09,8,71.53,572.24,Regular,4.4,Mix,Mineola
+G0622,2023-06-04,5,105.41,527.05,Occasional,5.0,Mix,Williston Park
+G0623,2024-05-07,1,100.73,100.73,Occasional,3.6,Mix,Carle Place
+G0624,2025-01-12,4,100.94,403.76,Occasional,4.7,Secondi,Great Neck
+G0625,2024-12-08,9,48.24,434.16,Regular,4.7,Pasta,Hempstead
+G0626,2024-08-03,5,76.19,380.95,Occasional,4.2,Mix,Williston Park
+G0627,2023-10-14,9,81.4,732.6,Regular,4.3,Pasta,Garden City
+G0628,2025-11-14,13,118.22,1536.86,Regular,5.0,Mix,Floral Park
+G0629,2024-11-23,12,101.82,1221.84,Regular,4.9,Mix,Floral Park
+G0630,2022-10-19,16,121.8,1948.8,Regular,4.5,Mix,Uniondale
+G0631,2025-10-18,5,87.57,437.85,Occasional,5.0,Antipasti,Hempstead
+G0632,2024-08-21,3,127.28,381.84,Occasional,5.0,Mix,Carle Place
+G0633,2024-04-22,20,100.1,2002.0,VIP,3.8,Pasta,Mineola
+G0634,2023-11-16,1,96.13,96.13,Occasional,4.7,Secondi,Carle Place
+G0635,2022-05-19,19,78.11,1484.09,Regular,3.5,Mix,Carle Place
+G0636,2022-12-09,14,122.09,1709.26,Regular,5.0,Mix,Hempstead
+G0637,2023-07-07,13,129.42,1682.46,Regular,5.0,Secondi,Mineola
+G0638,2024-03-08,2,78.55,157.1,Occasional,5.0,Pasta,Garden City
+G0639,2024-12-18,9,78.31,704.79,Regular,4.1,Mix,Uniondale
+G0640,2026-01-22,5,124.64,623.2,Occasional,3.7,Mix,Hempstead
+G0641,2026-02-23,19,110.49,2099.31,Regular,4.7,Mix,Floral Park
+G0642,2024-02-06,3,66.8,200.4,Occasional,5.0,Mix,Williston Park
+G0643,2025-08-23,4,62.74,250.96,Occasional,5.0,Antipasti,New Hyde Park
+G0644,2025-12-28,13,105.02,1365.26,Regular,4.9,Mix,New Hyde Park
+G0645,2026-01-20,2,106.33,212.66,Occasional,4.9,Antipasti,Williston Park
+G0646,2026-02-21,2,45.66,91.32,Occasional,4.3,Pasta,Williston Park
+G0647,2022-07-17,15,76.97,1154.55,Regular,2.8,Pasta,Hempstead
+G0648,2024-03-14,9,111.03,999.27,Regular,5.0,Antipasti,Hempstead
+G0649,2022-07-22,7,122.52,857.64,Occasional,5.0,Mix,Garden City
+G0650,2026-02-22,14,101.2,1416.8,Regular,4.9,Antipasti,Hempstead
+G0651,2023-07-22,4,48.71,194.84,Occasional,4.7,Mix,Great Neck
+G0652,2023-09-06,4,58.12,232.48,Occasional,5.0,Secondi,Uniondale
+G0653,2025-02-20,7,47.52,332.64,Occasional,4.9,Secondi,Westbury
+G0654,2024-11-05,11,125.87,1384.57,Regular,5.0,Mix,Westbury
+G0655,2022-11-28,5,116.87,584.35,Occasional,5.0,Secondi,Carle Place
+G0656,2022-06-13,1,129.83,129.83,Occasional,4.7,Mix,New Hyde Park
+G0657,2025-06-01,18,97.04,1746.72,Regular,4.9,Pasta,Great Neck
+G0658,2024-05-17,7,82.06,574.42,Occasional,4.6,Secondi,New Hyde Park
+G0659,2022-11-07,12,114.84,1378.08,Regular,5.0,Antipasti,Hempstead
+G0660,2022-12-17,10,108.41,1084.1,Regular,5.0,Antipasti,Mineola
+G0661,2023-02-03,37,72.49,2682.13,VIP,4.7,Pasta,Great Neck
+G0662,2022-04-18,15,51.64,774.6,Regular,3.6,Antipasti,Uniondale
+G0663,2022-07-08,5,93.48,467.4,Occasional,3.4,Antipasti,Floral Park
+G0664,2022-06-19,34,120.57,4099.38,VIP,3.7,Antipasti,Williston Park
+G0665,2023-08-09,3,76.56,229.68,Occasional,5.0,Antipasti,Uniondale
+G0666,2024-06-11,14,93.34,1306.76,Regular,4.9,Secondi,Uniondale
+G0667,2025-03-02,14,62.36,873.04,Regular,4.0,Pasta,Garden City
+G0668,2024-09-26,40,59.82,2392.8,VIP,4.1,Mix,Carle Place
+G0669,2025-10-27,12,104.24,1250.88,Regular,4.4,Antipasti,Williston Park
+G0670,2024-04-19,5,60.65,303.25,Occasional,3.5,Antipasti,Garden City
+G0671,2024-01-10,13,102.83,1336.79,Regular,3.9,Antipasti,Hempstead
+G0672,2024-06-16,3,55.46,166.38,Occasional,4.6,Antipasti,Floral Park
+G0673,2025-03-15,5,95.19,475.95,Occasional,3.7,Antipasti,Great Neck
+G0674,2023-01-27,8,56.86,454.88,Regular,5.0,Mix,Uniondale
+G0675,2025-05-12,3,54.65,163.95,Occasional,5.0,Antipasti,Great Neck
+G0676,2023-07-15,14,52.4,733.6,Regular,3.2,Pasta,Williston Park
+G0677,2025-03-25,16,53.47,855.52,Regular,4.0,Antipasti,Williston Park
+G0678,2025-07-02,16,56.33,901.28,Regular,4.3,Mix,Westbury
+G0679,2024-06-09,9,64.43,579.87,Regular,4.1,Antipasti,Carle Place
+G0680,2023-06-26,20,109.1,2182.0,VIP,4.6,Mix,Mineola
+G0681,2025-12-10,18,80.86,1455.48,Regular,4.8,Pasta,Garden City
+G0682,2023-04-19,101,118.98,12016.98,VIP,5.0,Mix,New Hyde Park
+G0683,2022-10-10,10,122.49,1224.9,Regular,4.7,Mix,New Hyde Park
+G0684,2024-07-10,2,82.11,164.22,Occasional,5.0,Pasta,Williston Park
+G0685,2025-02-11,1,69.97,69.97,Occasional,3.3,Mix,Uniondale
+G0686,2023-07-28,6,83.58,501.48,Occasional,4.8,Pasta,Carle Place
+G0687,2025-12-03,3,100.86,302.58,Occasional,4.9,Pasta,New Hyde Park
+G0688,2023-09-06,8,119.21,953.68,Regular,4.4,Secondi,Hempstead
+G0689,2023-01-01,11,92.64,1019.04,Regular,3.8,Pasta,Mineola
+G0690,2023-03-19,44,83.89,3691.16,VIP,4.7,Antipasti,Hempstead
+G0691,2023-10-06,12,69.56,834.72,Regular,5.0,Antipasti,Great Neck
+G0692,2024-08-23,31,75.5,2340.5,VIP,4.8,Mix,New Hyde Park
+G0693,2022-05-07,38,86.24,3277.12,VIP,5.0,Antipasti,Carle Place
+G0694,2022-12-21,26,110.08,2862.08,VIP,3.3,Secondi,New Hyde Park
+G0695,2025-09-23,23,69.95,1608.85,VIP,4.9,Mix,Mineola
+G0696,2023-08-05,18,75.92,1366.56,Regular,4.7,Secondi,Uniondale
+G0697,2023-03-11,23,103.34,2376.82,VIP,5.0,Pasta,Uniondale
+G0698,2022-06-09,10,123.33,1233.3,Regular,5.0,Mix,Uniondale
+G0699,2022-09-01,4,85.73,342.92,Occasional,4.2,Secondi,Hempstead
+G0700,2025-01-22,10,124.1,1241.0,Regular,5.0,Mix,Uniondale
+G0701,2024-08-01,32,122.22,3911.04,VIP,5.0,Secondi,Carle Place
+G0702,2022-05-13,4,61.58,246.32,Occasional,3.6,Antipasti,Uniondale
+G0703,2022-02-28,3,97.37,292.11,Occasional,5.0,Antipasti,Hempstead
+G0704,2025-04-08,4,115.05,460.2,Occasional,3.1,Mix,New Hyde Park
+G0705,2023-05-17,3,46.89,140.67,Occasional,5.0,Mix,New Hyde Park
+G0706,2025-03-27,1,124.12,124.12,Occasional,3.9,Secondi,Williston Park
+G0707,2022-09-10,1,96.6,96.6,Occasional,5.0,Pasta,New Hyde Park
+G0708,2024-07-09,5,111.29,556.45,Occasional,5.0,Secondi,Mineola
+G0709,2025-10-24,33,68.29,2253.57,VIP,4.1,Secondi,Westbury
+G0710,2025-03-14,1,104.78,104.78,Occasional,5.0,Antipasti,Floral Park
+G0711,2022-11-20,2,69.71,139.42,Occasional,3.0,Pasta,Carle Place
+G0712,2023-04-28,2,87.59,175.18,Occasional,5.0,Mix,Hempstead
+G0713,2024-05-18,33,96.84,3195.72,VIP,5.0,Pasta,Floral Park
+G0714,2023-08-26,1,93.85,93.85,Occasional,4.1,Antipasti,Carle Place
+G0715,2025-09-03,4,98.08,392.32,Occasional,5.0,Pasta,New Hyde Park
+G0716,2024-10-18,21,64.56,1355.76,VIP,3.9,Secondi,Mineola
+G0717,2022-11-13,9,72.89,656.01,Regular,4.7,Mix,Williston Park
+G0718,2024-10-23,3,97.49,292.47,Occasional,4.7,Mix,Uniondale
+G0719,2024-03-11,18,98.04,1764.72,Regular,3.7,Pasta,Mineola
+G0720,2025-12-17,1,46.26,46.26,Occasional,5.0,Secondi,Great Neck
+G0721,2022-08-10,26,114.6,2979.6,VIP,4.0,Antipasti,Uniondale
+G0722,2022-03-24,1,55.77,55.77,Occasional,4.7,Secondi,Carle Place
+G0723,2022-09-16,13,46.67,606.71,Regular,5.0,Secondi,Williston Park
+G0724,2024-12-13,2,117.99,235.98,Occasional,5.0,Antipasti,Floral Park
+G0725,2024-01-02,22,114.46,2518.12,VIP,5.0,Pasta,New Hyde Park
+G0726,2022-12-16,5,116.85,584.25,Occasional,4.6,Mix,Great Neck
+G0727,2023-05-08,1,48.06,48.06,Occasional,4.7,Pasta,Mineola
+G0728,2024-04-12,48,55.44,2661.12,VIP,4.5,Antipasti,Hempstead
+G0729,2026-01-12,2,89.72,179.44,Occasional,3.7,Antipasti,Great Neck
+G0730,2026-02-19,2,51.8,103.6,Occasional,5.0,Mix,Hempstead
+G0731,2025-09-16,9,52.65,473.85,Regular,4.8,Mix,Floral Park
+G0732,2024-06-12,28,48.54,1359.12,VIP,5.0,Antipasti,Garden City
+G0733,2025-11-09,7,122.74,859.18,Occasional,5.0,Antipasti,Hempstead
+G0734,2024-09-23,5,70.48,352.4,Occasional,5.0,Secondi,Garden City
+G0735,2022-03-03,6,63.85,383.1,Occasional,4.2,Mix,Great Neck
+G0736,2024-12-16,5,82.95,414.75,Occasional,4.6,Pasta,Uniondale
+G0737,2026-03-07,12,119.37,1432.44,Regular,4.7,Secondi,Hempstead
+G0738,2024-12-07,20,87.96,1759.2,VIP,4.6,Secondi,Garden City
+G0739,2024-04-22,2,109.42,218.84,Occasional,3.6,Antipasti,Garden City
+G0740,2024-04-14,15,81.06,1215.9,Regular,4.7,Mix,New Hyde Park
+G0741,2023-06-07,9,110.23,992.07,Regular,5.0,Mix,Westbury
+G0742,2025-06-21,6,102.83,616.98,Occasional,4.8,Antipasti,Williston Park
+G0743,2022-10-14,10,120.78,1207.8,Regular,3.0,Pasta,New Hyde Park
+G0744,2024-07-19,1,129.17,129.17,Occasional,3.6,Secondi,Hempstead
+G0745,2024-02-09,7,87.86,615.02,Occasional,3.9,Mix,Carle Place
+G0746,2025-04-12,16,114.12,1825.92,Regular,4.6,Pasta,Hempstead
+G0747,2022-02-10,2,76.55,153.1,Occasional,5.0,Pasta,Great Neck
+G0748,2023-01-08,4,62.91,251.64,Occasional,4.6,Pasta,Westbury
+G0749,2024-08-03,3,65.62,196.86,Occasional,4.8,Mix,Uniondale
+G0750,2023-05-13,3,119.22,357.66,Occasional,5.0,Mix,New Hyde Park
+G0751,2022-03-23,4,52.94,211.76,Occasional,4.6,Mix,Carle Place
+G0752,2025-06-14,11,57.23,629.53,Regular,4.7,Secondi,Carle Place
+G0753,2022-06-08,11,87.9,966.9,Regular,4.4,Mix,Mineola
+G0754,2024-12-21,4,70.07,280.28,Occasional,4.9,Secondi,Carle Place
+G0755,2023-04-22,6,66.62,399.72,Occasional,4.9,Antipasti,Great Neck
+G0756,2022-07-10,2,79.18,158.36,Occasional,3.8,Antipasti,Great Neck
+G0757,2024-12-05,21,47.39,995.19,VIP,4.5,Mix,Garden City
+G0758,2024-10-06,21,124.16,2607.36,VIP,5.0,Secondi,Mineola
+G0759,2024-12-01,15,111.09,1666.35,Regular,4.7,Secondi,Hempstead
+G0760,2023-05-10,2,113.83,227.66,Occasional,3.8,Pasta,New Hyde Park
+G0761,2023-09-12,9,97.92,881.28,Regular,5.0,Secondi,Great Neck
+G0762,2023-07-28,57,91.61,5221.77,VIP,2.6,Pasta,Great Neck
+G0763,2022-03-11,12,82.41,988.92,Regular,3.7,Antipasti,Floral Park
+G0764,2024-03-23,3,71.67,215.01,Occasional,3.6,Pasta,Uniondale
+G0765,2022-10-06,35,48.79,1707.65,VIP,5.0,Antipasti,Great Neck
+G0766,2023-08-12,15,127.46,1911.9,Regular,4.5,Antipasti,Great Neck
+G0767,2025-04-06,38,54.23,2060.74,VIP,5.0,Antipasti,Hempstead
+G0768,2026-01-25,30,124.41,3732.3,VIP,4.9,Secondi,Floral Park
+G0769,2024-09-10,6,105.58,633.48,Occasional,4.8,Mix,Mineola
+G0770,2023-09-14,38,98.16,3730.08,VIP,4.3,Mix,Williston Park
+G0771,2023-06-01,15,59.94,899.1,Regular,5.0,Antipasti,Floral Park
+G0772,2025-08-04,4,112.28,449.12,Occasional,5.0,Mix,Williston Park
+G0773,2025-01-08,8,46.88,375.04,Regular,5.0,Secondi,Uniondale
+G0774,2023-03-26,6,89.54,537.24,Occasional,3.5,Antipasti,Carle Place
+G0775,2023-07-12,14,114.48,1602.72,Regular,5.0,Mix,Williston Park
+G0776,2022-05-01,13,101.71,1322.23,Regular,5.0,Secondi,Carle Place
+G0777,2025-12-21,4,112.23,448.92,Occasional,4.8,Antipasti,Mineola
+G0778,2026-02-19,8,65.68,525.44,Regular,4.0,Secondi,Floral Park
+G0779,2025-08-16,16,119.58,1913.28,Regular,5.0,Pasta,Williston Park
+G0780,2025-03-17,12,72.87,874.44,Regular,3.3,Secondi,Floral Park
+G0781,2023-01-13,2,66.35,132.7,Occasional,4.5,Secondi,Hempstead
+G0782,2022-03-26,13,122.71,1595.23,Regular,2.8,Antipasti,Uniondale
+G0783,2023-11-24,4,74.45,297.8,Occasional,3.6,Mix,Great Neck
+G0784,2022-06-25,1,81.64,81.64,Occasional,4.8,Antipasti,Uniondale
+G0785,2023-12-03,3,107.62,322.86,Occasional,4.9,Antipasti,Garden City
+G0786,2026-03-07,5,128.0,640.0,Occasional,5.0,Pasta,Uniondale
+G0787,2024-07-07,16,55.73,891.68,Regular,5.0,Secondi,New Hyde Park
+G0788,2023-06-27,59,108.2,6383.8,VIP,4.1,Mix,New Hyde Park
+G0789,2024-01-23,9,122.37,1101.33,Regular,5.0,Secondi,Great Neck
+G0790,2023-03-28,14,82.44,1154.16,Regular,5.0,Antipasti,Great Neck
+G0791,2025-05-28,16,116.4,1862.4,Regular,4.9,Secondi,Garden City
+G0792,2022-10-04,27,113.22,3056.94,VIP,4.8,Mix,Williston Park
+G0793,2024-10-13,8,67.6,540.8,Regular,4.7,Antipasti,New Hyde Park
+G0794,2024-09-18,9,52.52,472.68,Regular,5.0,Antipasti,Garden City
+G0795,2022-03-23,16,60.55,968.8,Regular,4.3,Pasta,Uniondale
+G0796,2022-06-16,22,115.5,2541.0,VIP,3.6,Mix,Williston Park
+G0797,2022-07-06,41,74.56,3056.96,VIP,4.6,Mix,Garden City
+G0798,2025-03-12,1,49.64,49.64,Occasional,3.3,Mix,Williston Park
+G0799,2023-04-12,18,98.49,1772.82,Regular,3.9,Mix,New Hyde Park
+G0800,2025-12-05,5,60.52,302.6,Occasional,4.1,Antipasti,Westbury
+G0801,2026-04-19,9,53.4,480.6,Regular,4.6,Secondi,Carle Place
+G0802,2022-05-26,26,127.25,3308.5,VIP,5.0,Pasta,Hempstead
+G0803,2022-12-02,10,88.31,883.1,Regular,4.7,Mix,Great Neck
+G0804,2024-07-09,3,104.53,313.59,Occasional,4.7,Antipasti,New Hyde Park
+G0805,2024-08-21,2,47.53,95.06,Occasional,4.5,Secondi,Floral Park
+G0806,2023-12-28,5,67.32,336.6,Occasional,5.0,Mix,Uniondale
+G0807,2026-04-26,7,119.52,836.64,Occasional,3.9,Pasta,Mineola
+G0808,2023-01-24,3,45.18,135.54,Occasional,4.6,Secondi,Williston Park
+G0809,2024-03-15,8,53.17,425.36,Regular,4.6,Pasta,Carle Place
+G0810,2023-11-21,21,122.63,2575.23,VIP,5.0,Pasta,Williston Park
+G0811,2023-04-12,7,79.81,558.67,Occasional,5.0,Antipasti,Mineola
+G0812,2024-06-12,27,56.26,1519.02,VIP,4.8,Antipasti,Uniondale
+G0813,2022-12-07,33,105.05,3466.65,VIP,4.3,Mix,Floral Park
+G0814,2023-06-12,7,51.63,361.41,Occasional,5.0,Pasta,Williston Park
+G0815,2023-03-10,10,114.13,1141.3,Regular,4.7,Secondi,Westbury
+G0816,2022-12-03,6,93.09,558.54,Occasional,5.0,Secondi,Carle Place
+G0817,2025-12-05,10,77.59,775.9,Regular,3.5,Pasta,Westbury
+G0818,2023-01-13,15,57.75,866.25,Regular,5.0,Secondi,Garden City
+G0819,2026-04-27,5,48.68,243.4,Occasional,4.3,Secondi,Hempstead
+G0820,2024-10-18,3,45.73,137.19,Occasional,4.6,Mix,Mineola
+G0821,2023-05-10,18,71.82,1292.76,Regular,3.1,Mix,Garden City
+G0822,2023-12-12,2,82.82,165.64,Occasional,3.6,Secondi,Carle Place
+G0823,2024-03-15,3,84.12,252.36,Occasional,4.6,Mix,Hempstead
+G0824,2025-02-13,4,93.97,375.88,Occasional,4.8,Pasta,Williston Park
+G0825,2023-08-12,3,95.85,287.55,Occasional,4.1,Mix,Uniondale
+G0826,2023-06-19,24,125.06,3001.44,VIP,4.4,Secondi,Carle Place
+G0827,2024-04-19,10,75.29,752.9,Regular,5.0,Pasta,Westbury
+G0828,2022-04-12,6,123.89,743.34,Occasional,4.4,Antipasti,Hempstead
+G0829,2026-04-08,36,51.68,1860.48,VIP,5.0,Pasta,Floral Park
+G0830,2025-01-12,4,99.75,399.0,Occasional,4.9,Antipasti,Westbury
+G0831,2024-02-16,5,122.52,612.6,Occasional,3.6,Pasta,Williston Park
+G0832,2022-12-15,4,80.33,321.32,Occasional,5.0,Secondi,Great Neck
+G0833,2026-04-16,5,118.13,590.65,Occasional,4.8,Secondi,Great Neck
+G0834,2025-08-21,1,107.47,107.47,Occasional,5.0,Secondi,New Hyde Park
+G0835,2025-04-15,22,90.99,2001.78,VIP,4.8,Secondi,Hempstead
+G0836,2022-10-12,6,79.92,479.52,Occasional,4.7,Pasta,Garden City
+G0837,2023-03-02,18,109.44,1969.92,Regular,4.2,Pasta,Great Neck
+G0838,2024-04-11,5,52.12,260.6,Occasional,5.0,Antipasti,New Hyde Park
+G0839,2025-12-08,8,102.23,817.84,Regular,4.5,Pasta,Mineola
+G0840,2024-11-17,37,71.89,2659.93,VIP,5.0,Secondi,Floral Park
+G0841,2022-12-16,14,54.27,759.78,Regular,4.6,Antipasti,Mineola
+G0842,2025-12-19,3,75.27,225.81,Occasional,5.0,Pasta,Floral Park
+G0843,2024-11-11,5,91.44,457.2,Occasional,4.2,Pasta,Uniondale
+G0844,2023-06-23,8,97.07,776.56,Regular,3.8,Antipasti,Mineola
+G0845,2024-12-26,3,64.14,192.42,Occasional,4.7,Antipasti,Garden City
+G0846,2025-12-18,40,107.98,4319.2,VIP,4.3,Pasta,Williston Park
+G0847,2022-07-09,54,60.85,3285.9,VIP,4.6,Antipasti,Mineola
+G0848,2023-03-11,38,76.98,2925.24,VIP,4.9,Antipasti,Mineola
+G0849,2023-01-12,8,79.97,639.76,Regular,3.6,Mix,Hempstead
+G0850,2025-02-21,4,129.09,516.36,Occasional,4.8,Mix,Carle Place

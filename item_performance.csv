@@ -1,0 +1,166 @@
+year,category,item,is_alcohol,times_ordered,items_sold,revenue,avg_price
+2022,Antipasti,Bruschetta al Pomodoro,No,2610,2837,28131.5,10.0
+2022,Antipasti,Burrata con Prosciutto,No,2495,2720,45861.75,17.0
+2022,Antipasti,Calamari Fritti,No,2511,2728,40561.5,15.0
+2022,Antipasti,Zuppa del Giorno,No,2486,2721,24264.0,9.0
+2022,Bar,Aperol Spritz,Yes,2551,3134,43524.6,14.0
+2022,Bar,House Limoncello,Yes,2534,3063,30352.5,10.0
+2022,Bar,Negroni,Yes,2520,3074,45739.5,15.0
+2022,Bar,Peroni (bottle),Yes,2530,3071,24368.0,8.0
+2022,Beverage,Cappuccino,No,2539,3140,17120.66,5.5
+2022,Beverage,Espresso,No,2480,3037,12038.8,4.0
+2022,Beverage,San Pellegrino Limonata,No,2594,3190,15815.75,5.0
+2022,Beverage,Sparkling Water,No,2530,3071,12178.6,4.0
+2022,Beverage,Still Water,No,2566,3165,12567.0,4.0
+2022,Contorni,Insalata Mista,No,2114,2391,18952.8,8.0
+2022,Contorni,Patate al Rosmarino,No,2043,2304,18281.2,8.0
+2022,Contorni,Verdure Grigliate,No,2084,2381,21247.65,9.0
+2022,Dolci,Cannoli Siciliani,No,2560,3027,23989.6,8.0
+2022,Dolci,Panna Cotta,No,2546,2972,26508.6,9.0
+2022,Dolci,Tiramisu,No,2537,2942,29174.5,10.0
+2022,Pasta,Cacio e Pepe,No,2086,2363,49206.15,21.0
+2022,Pasta,Gnocchi al Gorgonzola,No,2122,2438,53161.9,22.0
+2022,Pasta,Linguine alle Vongole,No,2105,2392,61669.4,26.0
+2022,Pasta,Pappardelle al Ragù,No,2034,2295,54576.0,24.0
+2022,Pasta,Rigatoni alla Norma,No,2133,2427,48123.0,20.0
+2022,Secondi,Bistecca Tagliata,No,2072,2364,98357.7,42.0
+2022,Secondi,Branzino al Forno,No,2076,2385,80398.1,34.0
+2022,Secondi,Melanzane alla Parmigiana,No,2038,2336,50966.3,22.0
+2022,Secondi,Osso Buco,No,2056,2332,87814.2,38.0
+2022,Secondi,Pollo alla Parmigiana,No,2097,2371,65870.0,28.0
+2022,Wine,Barolo (glass),Yes,2534,3112,55528.2,18.0
+2022,Wine,Chianti Classico (glass),Yes,2581,3104,43100.4,14.0
+2022,Wine,Pinot Grigio (glass),Yes,2468,2984,38475.45,13.0
+2022,Wine,Prosecco (glass),Yes,2529,3097,36856.8,12.0
+2023,Antipasti,Bruschetta al Pomodoro,No,2844,3081,30547.0,10.0
+2023,Antipasti,Burrata con Prosciutto,No,2897,3131,52780.75,17.0
+2023,Antipasti,Calamari Fritti,No,2949,3214,47736.75,15.0
+2023,Antipasti,Zuppa del Giorno,No,2849,3069,27397.35,9.0
+2023,Bar,Aperol Spritz,Yes,2951,3607,49998.2,14.0
+2023,Bar,House Limoncello,Yes,2878,3449,34187.0,10.0
+2023,Bar,Negroni,Yes,2856,3518,52302.75,15.0
+2023,Bar,Peroni (bottle),Yes,2969,3632,28806.4,8.0
+2023,Beverage,Cappuccino,No,2940,3592,19597.26,5.5
+2023,Beverage,Espresso,No,2878,3492,13861.6,4.0
+2023,Beverage,San Pellegrino Limonata,No,2898,3529,17497.75,5.0
+2023,Beverage,Sparkling Water,No,2885,3513,13943.6,4.0
+2023,Beverage,Still Water,No,2893,3511,13929.6,4.0
+2023,Contorni,Insalata Mista,No,2297,2623,20816.4,8.0
+2023,Contorni,Patate al Rosmarino,No,2425,2756,21840.4,8.0
+2023,Contorni,Verdure Grigliate,No,2359,2694,24045.75,9.0
+2023,Dolci,Cannoli Siciliani,No,2874,3389,26886.4,8.0
+2023,Dolci,Panna Cotta,No,2897,3417,30486.15,9.0
+2023,Dolci,Tiramisu,No,2934,3441,34127.5,10.0
+2023,Pasta,Cacio e Pepe,No,2389,2706,56362.95,21.0
+2023,Pasta,Gnocchi al Gorgonzola,No,2418,2738,59730.0,22.0
+2023,Pasta,Linguine alle Vongole,No,2368,2672,68927.3,26.0
+2023,Pasta,Pappardelle al Ragù,No,2388,2718,64675.2,24.0
+2023,Pasta,Rigatoni alla Norma,No,2387,2711,53789.0,20.0
+2023,Secondi,Bistecca Tagliata,No,2347,2628,109410.0,42.0
+2023,Secondi,Branzino al Forno,No,2372,2691,90671.2,34.0
+2023,Secondi,Melanzane alla Parmigiana,No,2407,2751,60028.1,22.0
+2023,Secondi,Osso Buco,No,2365,2679,100950.8,38.0
+2023,Secondi,Pollo alla Parmigiana,No,2409,2727,75668.6,28.0
+2023,Wine,Barolo (glass),Yes,2901,3512,62689.5,18.0
+2023,Wine,Chianti Classico (glass),Yes,2880,3500,48570.2,14.0
+2023,Wine,Pinot Grigio (glass),Yes,2913,3544,45664.45,13.0
+2023,Wine,Prosecco (glass),Yes,2941,3564,42433.2,12.0
+2024,Antipasti,Bruschetta al Pomodoro,No,3154,3431,34040.5,10.0
+2024,Antipasti,Burrata con Prosciutto,No,3138,3403,57344.4,17.0
+2024,Antipasti,Calamari Fritti,No,3164,3418,50808.75,15.0
+2024,Antipasti,Zuppa del Giorno,No,3116,3377,30136.95,9.0
+2024,Bar,Aperol Spritz,Yes,3124,3794,52683.4,14.0
+2024,Bar,House Limoncello,Yes,3176,3806,37732.5,10.0
+2024,Bar,Negroni,Yes,3131,3792,56404.5,15.0
+2024,Bar,Peroni (bottle),Yes,3204,3921,31084.8,8.0
+2024,Beverage,Cappuccino,No,3151,3881,21153.76,5.5
+2024,Beverage,Espresso,No,3241,3999,15856.8,4.0
+2024,Beverage,San Pellegrino Limonata,No,3180,3836,19011.5,5.0
+2024,Beverage,Sparkling Water,No,3187,3893,15437.2,4.0
+2024,Beverage,Still Water,No,3246,3905,15480.8,4.0
+2024,Contorni,Insalata Mista,No,2613,2991,23719.6,8.0
+2024,Contorni,Patate al Rosmarino,No,2572,2909,23089.6,8.0
+2024,Contorni,Verdure Grigliate,No,2663,3001,26775.45,9.0
+2024,Dolci,Cannoli Siciliani,No,3214,3786,30035.6,8.0
+2024,Dolci,Panna Cotta,No,3209,3739,33363.45,9.0
+2024,Dolci,Tiramisu,No,3095,3609,35782.5,10.0
+2024,Pasta,Cacio e Pepe,No,2584,2953,61510.05,21.0
+2024,Pasta,Gnocchi al Gorgonzola,No,2590,2915,63597.6,22.0
+2024,Pasta,Linguine alle Vongole,No,2564,2897,74755.2,26.0
+2024,Pasta,Pappardelle al Ragù,No,2620,3007,71538.0,24.0
+2024,Pasta,Rigatoni alla Norma,No,2638,2986,59181.0,20.0
+2024,Secondi,Bistecca Tagliata,No,2664,3041,126615.3,42.0
+2024,Secondi,Branzino al Forno,No,2613,2980,100470.0,34.0
+2024,Secondi,Melanzane alla Parmigiana,No,2507,2830,61695.7,22.0
+2024,Secondi,Osso Buco,No,2500,2866,107996.0,38.0
+2024,Secondi,Pollo alla Parmigiana,No,2677,3039,84411.6,28.0
+2024,Wine,Barolo (glass),Yes,3196,3901,69623.1,18.0
+2024,Wine,Chianti Classico (glass),Yes,3171,3817,53022.2,14.0
+2024,Wine,Pinot Grigio (glass),Yes,3162,3862,49780.9,13.0
+2024,Wine,Prosecco (glass),Yes,3156,3867,45990.6,12.0
+2025,Antipasti,Bruschetta al Pomodoro,No,3121,3387,33564.5,10.0
+2025,Antipasti,Burrata con Prosciutto,No,2964,3195,53831.35,17.0
+2025,Antipasti,Calamari Fritti,No,2975,3238,48145.5,15.0
+2025,Antipasti,Zuppa del Giorno,No,3066,3307,29508.75,9.0
+2025,Bar,Aperol Spritz,Yes,3076,3713,51548.7,14.0
+2025,Bar,House Limoncello,Yes,3015,3676,36465.0,10.0
+2025,Bar,Negroni,Yes,3130,3804,56577.0,15.0
+2025,Bar,Peroni (bottle),Yes,2916,3510,27833.6,8.0
+2025,Beverage,Cappuccino,No,3067,3793,20676.96,5.5
+2025,Beverage,Espresso,No,3044,3707,14703.6,4.0
+2025,Beverage,San Pellegrino Limonata,No,3019,3642,18037.75,5.0
+2025,Beverage,Sparkling Water,No,2976,3628,14388.6,4.0
+2025,Beverage,Still Water,No,3111,3772,14952.8,4.0
+2025,Contorni,Insalata Mista,No,2544,2898,22973.2,8.0
+2025,Contorni,Patate al Rosmarino,No,2519,2891,22925.6,8.0
+2025,Contorni,Verdure Grigliate,No,2469,2812,25103.25,9.0
+2025,Dolci,Cannoli Siciliani,No,3037,3561,28235.2,8.0
+2025,Dolci,Panna Cotta,No,3148,3692,32950.8,9.0
+2025,Dolci,Tiramisu,No,3024,3535,35044.0,10.0
+2025,Pasta,Cacio e Pepe,No,2488,2853,59393.25,21.0
+2025,Pasta,Gnocchi al Gorgonzola,No,2462,2804,61191.9,22.0
+2025,Pasta,Linguine alle Vongole,No,2464,2786,71819.8,26.0
+2025,Pasta,Pappardelle al Ragù,No,2541,2866,68188.8,24.0
+2025,Pasta,Rigatoni alla Norma,No,2460,2795,55439.0,20.0
+2025,Secondi,Bistecca Tagliata,No,2609,2968,123574.5,42.0
+2025,Secondi,Branzino al Forno,No,2487,2830,95465.2,34.0
+2025,Secondi,Melanzane alla Parmigiana,No,2530,2867,62539.4,22.0
+2025,Secondi,Osso Buco,No,2477,2803,105683.7,38.0
+2025,Secondi,Pollo alla Parmigiana,No,2481,2791,77515.2,28.0
+2025,Wine,Barolo (glass),Yes,3060,3707,66163.5,18.0
+2025,Wine,Chianti Classico (glass),Yes,3126,3829,53147.5,14.0
+2025,Wine,Pinot Grigio (glass),Yes,3038,3724,47997.95,13.0
+2025,Wine,Prosecco (glass),Yes,3069,3706,44083.8,12.0
+2026,Antipasti,Bruschetta al Pomodoro,No,892,973,9642.0,10.0
+2026,Antipasti,Burrata con Prosciutto,No,882,938,15809.15,17.0
+2026,Antipasti,Calamari Fritti,No,852,930,13831.5,15.0
+2026,Antipasti,Zuppa del Giorno,No,896,984,8780.4,9.0
+2026,Bar,Aperol Spritz,Yes,911,1080,15021.3,14.0
+2026,Bar,House Limoncello,Yes,868,1080,10704.0,10.0
+2026,Bar,Negroni,Yes,897,1076,16022.25,15.0
+2026,Bar,Peroni (bottle),Yes,873,1063,8433.6,8.0
+2026,Beverage,Cappuccino,No,911,1130,6166.28,5.5
+2026,Beverage,Espresso,No,870,1076,4269.4,4.0
+2026,Beverage,San Pellegrino Limonata,No,870,1047,5185.0,5.0
+2026,Beverage,Sparkling Water,No,888,1106,4384.4,4.0
+2026,Beverage,Still Water,No,919,1115,4424.0,4.0
+2026,Contorni,Insalata Mista,No,765,851,6745.6,8.0
+2026,Contorni,Patate al Rosmarino,No,766,868,6884.0,8.0
+2026,Contorni,Verdure Grigliate,No,733,823,7346.25,9.0
+2026,Dolci,Cannoli Siciliani,No,876,1009,8010.0,8.0
+2026,Dolci,Panna Cotta,No,895,1048,9352.8,9.0
+2026,Dolci,Tiramisu,No,897,1058,10497.0,10.0
+2026,Pasta,Cacio e Pepe,No,727,809,16837.8,21.0
+2026,Pasta,Gnocchi al Gorgonzola,No,740,853,18628.5,22.0
+2026,Pasta,Linguine alle Vongole,No,740,853,21976.5,26.0
+2026,Pasta,Pappardelle al Ragù,No,759,865,20575.2,24.0
+2026,Pasta,Rigatoni alla Norma,No,713,830,16465.0,20.0
+2026,Secondi,Bistecca Tagliata,No,764,864,35998.2,42.0
+2026,Secondi,Branzino al Forno,No,698,779,26276.9,34.0
+2026,Secondi,Melanzane alla Parmigiana,No,749,850,18541.6,22.0
+2026,Secondi,Osso Buco,No,681,782,29484.2,38.0
+2026,Secondi,Pollo alla Parmigiana,No,724,827,22943.2,28.0
+2026,Wine,Barolo (glass),Yes,868,1048,18724.5,18.0
+2026,Wine,Chianti Classico (glass),Yes,931,1132,15711.5,14.0
+2026,Wine,Pinot Grigio (glass),Yes,912,1117,14400.1,13.0
+2026,Wine,Prosecco (glass),Yes,899,1106,13155.6,12.0

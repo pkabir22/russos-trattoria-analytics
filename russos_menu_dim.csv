@@ -1,0 +1,34 @@
+item_id,category,item,price,cogs_pct,gross_margin_pct,is_alcohol,launch_year
+M01,Antipasti,Bruschetta al Pomodoro,10.0,0.28,72.0,False,2022
+M02,Antipasti,Burrata con Prosciutto,17.0,0.34,66.0,False,2022
+M03,Antipasti,Calamari Fritti,15.0,0.32,68.0,False,2022
+M04,Antipasti,Zuppa del Giorno,9.0,0.3,70.0,False,2022
+M05,Pasta,Cacio e Pepe,21.0,0.3,70.0,False,2022
+M06,Pasta,Pappardelle al Ragù,24.0,0.33,67.0,False,2022
+M07,Pasta,Rigatoni alla Norma,20.0,0.29,71.0,False,2022
+M08,Pasta,Linguine alle Vongole,26.0,0.35,65.0,False,2022
+M09,Pasta,Gnocchi al Gorgonzola,22.0,0.31,69.0,False,2022
+M10,Secondi,Pollo alla Parmigiana,28.0,0.38,62.0,False,2022
+M11,Secondi,Branzino al Forno,34.0,0.4,60.0,False,2022
+M12,Secondi,Osso Buco,38.0,0.42,58.0,False,2022
+M13,Secondi,Bistecca Tagliata,42.0,0.44,56.0,False,2022
+M14,Secondi,Melanzane alla Parmigiana,22.0,0.3,70.0,False,2022
+M15,Contorni,Patate al Rosmarino,8.0,0.22,78.0,False,2022
+M16,Contorni,Verdure Grigliate,9.0,0.22,78.0,False,2022
+M17,Contorni,Insalata Mista,8.0,0.2,80.0,False,2022
+M18,Dolci,Tiramisu,10.0,0.25,75.0,False,2022
+M19,Dolci,Panna Cotta,9.0,0.23,77.0,False,2022
+M20,Dolci,Cannoli Siciliani,8.0,0.24,76.0,False,2022
+M21,Beverage,Still Water,4.0,0.1,90.0,False,2022
+M22,Beverage,Sparkling Water,4.0,0.1,90.0,False,2022
+M23,Beverage,San Pellegrino Limonata,5.0,0.18,82.0,False,2022
+M24,Beverage,Espresso,4.0,0.2,80.0,False,2022
+M25,Beverage,Cappuccino,5.5,0.22,78.0,False,2022
+M26,Wine,Pinot Grigio (glass),13.0,0.28,72.0,True,2022
+M27,Wine,Chianti Classico (glass),14.0,0.28,72.0,True,2022
+M28,Wine,Barolo (glass),18.0,0.3,70.0,True,2022
+M29,Wine,Prosecco (glass),12.0,0.26,74.0,True,2022
+M30,Bar,Peroni (bottle),8.0,0.22,78.0,True,2022
+M31,Bar,Aperol Spritz,14.0,0.28,72.0,True,2022
+M32,Bar,Negroni,15.0,0.28,72.0,True,2022
+M33,Bar,House Limoncello,10.0,0.2,80.0,True,2022
