@@ -126,4 +126,25 @@ Built in **Google Looker Studio** with two interactive controls:
 
 ---
 
+## Repo Structure
+
+```
+project-01-dollar-bazaar/
+├── README.md
+├── dashboard-preview.png
+├── alex_sales.csv
+├── alex_inventory.csv
+└── alex_expenses.csv
+```
+
+---
+
+## About DataMade
+
+DataMade is a freelance data analytics practice building dashboards, automated reports, and analytics solutions for small businesses and independent operators. This is Project 1 of an ongoing portfolio series.
+
+[View full DataMade Analytics Portfolio](https://github.com/pkabir22/datamade-analytics-portfolio)
+
+---
+
 *Built by [DataMade](https://datamade.co) · BI & Analytics Consulting · New York, NY*
