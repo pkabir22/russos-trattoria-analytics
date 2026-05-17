@@ -6,7 +6,7 @@
 
 ---
 
-## Business Context
+## Project Overview
 
 Marcus runs a 45-person moving and storage company in Queens, NY. Over the past few years, he's been losing drivers and movers at an alarming rate — constantly rehiring, retraining, and absorbing the hidden costs of turnover. He brought in DataMade to answer one question:
 
